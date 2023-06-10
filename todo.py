@@ -6,8 +6,8 @@ items = []
 def add_item():
     item = input_field.get()
     if item:
-        # Append the new item to the `items` list with an initial check-off status of `False`
-        items.append((item, "False"))
+        # Append the new item to the `items` list with an initial check-off status of `True`
+        items.append((item, "True"))
         list_box.insert("end", item)
         input_field.delete(0, "end")
 
