@@ -4,4 +4,4 @@ ucbtg implied cov,True
 aqn signal generation testing,True
 hotel booking for EU trip,True
 silke check report,True
-tim tait emails,False
+tim tait emails,True
