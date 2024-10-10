@@ -1,8 +1,7 @@
 alfredo meeting prep,True
 alfredo hunter solution,True
-ucbtg implied cov,False
-aqn signal generation testing,True
+ucbtg implied cov,True
+aqn signal generation testing,False
 hotel booking for EU trip,True
-silke check report,True
 tim tait emails,True
-apply to CCL,True
+apply to CCL,False
