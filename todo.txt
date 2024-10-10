@@ -1,7 +1,6 @@
-create pres. template,True
-text nusair,False
-journal entries,False
-clean room,True
-make to-do persistent,True
+create pres. template,False
+make to-do persistent,False
 clear outlook space,False
-test,True
+test,False
+test 2,False
+checking off,False

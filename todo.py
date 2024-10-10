@@ -6,8 +6,8 @@ items = []
 def add_item():
     item = input_field.get()
     if item:
-        # Append the new item to the `items` list with an initial check-off status of `True`
-        items.append((item, "True"))
+        # Append the new item to the `items` list with an initial check-off status of `False`
+        items.append((item, "False"))
         list_box.insert("end", item)
         input_field.delete(0, "end")
 
@@ -50,17 +50,6 @@ def load_items():
 
 root = tk.Tk()
 root.title("To-Do List")
-
-#input_field = tk.Entry(root)
-#input_field.pack(fill="x", expand=True, padx=10)
-#input_field.pack_propagate(0)
-
-#add_button = tk.Button(root, text="Add", command=add_item)
-#add_button.pack()
-#
-#list_box = tk.Listbox(root)
-#list_box.pack(fill="both", expand=True, padx=10)
-#
 
 input_frame = tk.Frame(root)
 input_frame.pack(fill="x", padx=10, pady=10)
