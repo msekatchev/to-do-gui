@@ -1,6 +1,6 @@
 create pres. template,True
 make to-do persistent,False
-clear outlook space,False
+clear outlook space,True
 test,False
 test 2,False
 checking off,False
