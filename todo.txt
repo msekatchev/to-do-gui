@@ -4,4 +4,4 @@ ucbtg implied cov,True
 aqn signal generation testing,False
 hotel booking for EU trip,True
 tim tait emails,True
-apply to CCL,False
+apply to CCL,True
