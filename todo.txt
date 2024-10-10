@@ -1,4 +1,4 @@
-create pres. template,False
+create pres. template,True
 make to-do persistent,False
 clear outlook space,False
 test,False
