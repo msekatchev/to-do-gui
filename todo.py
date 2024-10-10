@@ -1,7 +1,6 @@
 import os
 import subprocess
 import tkinter as tk
-
 # Define an empty list to store the items and their check-off status
 items = []
 
@@ -37,6 +36,9 @@ def save_items():
 
 def load_items():
     try:
+        # Pull the latest changes from GitHub
+        pull_from_github()
+        
         with open('todo.txt', 'r') as f:
             for line in f:
                 item, check_off = line.strip().split(',')
@@ -45,27 +47,39 @@ def load_items():
                 if check_off == "False":
                     list_box.itemconfig("end", {'fg': 'gray'})
     except FileNotFoundError:
-        pass
+        print("todo.txt not found.")
+    except subprocess.CalledProcessError as e:
+        print(f"Error pulling from GitHub: {e}")
 
 def push_to_github():
     try:
-        # Load the GitHub token from the file
         with open('github-code.txt', 'r') as f:
             github_token = f.read().strip()
 
-        # GitHub repository URL with token authentication
         github_url = f"https://{github_token}:x-oauth-basic@github.com/msekatchev/to-do-gui.git"
 
-        # Add the changes
         subprocess.run(["git", "add", "todo.txt"], check=True)
-        # Commit the changes
         subprocess.run(["git", "commit", "-m", "Update to-do list"], check=True)
-        # Push the changes using the token for authentication
         subprocess.run(["git", "push", github_url, "main"], check=True)
         
         print("Pushed to GitHub successfully!")
     except subprocess.CalledProcessError as e:
         print(f"Error pushing to GitHub: {e}")
+    except FileNotFoundError:
+        print("GitHub token file not found.")
+
+def pull_from_github():
+    try:
+        with open('github-code.txt', 'r') as f:
+            github_token = f.read().strip()
+
+        github_url = f"https://{github_token}:x-oauth-basic@github.com/msekatchev/to-do-gui.git"
+
+        # Pull the latest changes using the token for authentication
+        subprocess.run(["git", "pull", github_url, "main"], check=True)
+        print("Pulled from GitHub successfully!")
+    except subprocess.CalledProcessError as e:
+        print(f"Error pulling from GitHub: {e}")
     except FileNotFoundError:
         print("GitHub token file not found.")
 
@@ -99,7 +113,9 @@ delete_button.pack(side="left", padx=(5, 0))
 save_button = tk.Button(root, text="Save", command=save_items)
 save_button.pack(side="left", padx=(5, 0))
 
+# Pull the latest list from GitHub and load the contents of the file
 load_items()
+
 root.geometry("300x600") 
 root.mainloop()
 
