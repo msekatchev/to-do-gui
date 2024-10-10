@@ -5,3 +5,4 @@ aqn signal generation testing,True
 hotel booking for EU trip,True
 silke check report,True
 tim tait emails,True
+apply to CCL,False
