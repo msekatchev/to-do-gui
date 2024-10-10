@@ -1,3 +1,5 @@
-test,True
-stuff,False
-Testing testing testing,False
+alfredo meeting prep,False
+alfredo hunter solution,False
+ucbtg implied cov,False
+aqn signal generation testing,False
+hotel booking for EU trip,False
