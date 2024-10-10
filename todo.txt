@@ -1,6 +1,6 @@
 alfredo meeting prep,True
 alfredo hunter solution,True
-ucbtg implied cov,True
+ucbtg implied cov,False
 aqn signal generation testing,True
 hotel booking for EU trip,True
 silke check report,True
