@@ -8,3 +8,4 @@ apply to CCL,True
 email andreas,False
 email elisa,False
 email hendrik,False
+email makimoto from alpha-g,False
