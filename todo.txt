@@ -5,3 +5,6 @@ aqn signal generation testing,True
 hotel booking for EU trip,True
 tim tait emails,True
 apply to CCL,True
+email andreas,False
+email elisa,False
+email hendrik,False
