@@ -1,4 +1,3 @@
-alfredo meeting prep,False
 alfredo hunter solution,True
 ucbtg implied cov,True
 aqn signal generation testing,True
