@@ -8,4 +8,4 @@ email andreas,False
 email elisa,False
 email hendrik,False
 email makimoto from alpha-g,True
-email alfredo,True
+email alfredo,False
