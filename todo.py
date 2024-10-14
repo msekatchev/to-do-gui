@@ -4,6 +4,9 @@ import tkinter as tk
 # Define an empty list to store the items and their check-off status
 items = []
 
+# run the command below to produce a .exe file on Linux or MacOS
+# pyinstaller --onefile --windowed todo.py
+
 todo_file_path = '/Users/msekatchev/Documents/Coding/to-do-gui/'
 
 def add_item():
