@@ -4,6 +4,8 @@ import tkinter as tk
 # Define an empty list to store the items and their check-off status
 items = []
 
+todo_file_path = '/Users/msekatchev/Documents/Coding/to-do-gui/'
+
 def add_item():
     item = input_field.get()
     if item:
@@ -39,7 +41,7 @@ def load_items():
         # Pull the latest changes from GitHub
         pull_from_github()
         
-        with open('todo.txt', 'r') as f:
+        with open(todo_file_path+'todo.txt', 'r') as f:
             for line in f:
                 item, check_off = line.strip().split(',')
                 items.append((item, check_off))
@@ -53,12 +55,12 @@ def load_items():
 
 def push_to_github():
     try:
-        with open('github-code.txt', 'r') as f:
+        with open(todo_file_path+'github-code.txt', 'r') as f:
             github_token = f.read().strip()
 
         github_url = f"https://{github_token}:x-oauth-basic@github.com/msekatchev/to-do-gui.git"
 
-        subprocess.run(["git", "add", "todo.txt"], check=True)
+        subprocess.run(["git", "add", todo_file_path+"todo.txt"], check=True)
         subprocess.run(["git", "commit", "-m", "Update to-do list"], check=True)
         subprocess.run(["git", "push", github_url, "main"], check=True)
         
@@ -70,18 +72,23 @@ def push_to_github():
 
 def pull_from_github():
     try:
-        with open('github-code.txt', 'r') as f:
-            github_token = f.read().strip()
+        # Change the current working directory to the Git repository
+        os.chdir(todo_file_path)
 
-        github_url = f"https://{github_token}:x-oauth-basic@github.com/msekatchev/to-do-gui.git"
+        # Git pull command
+        pull_command = [
+            'git', 'pull', 
+            'https://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:x-oauth-basic@github.com/msekatchev/to-do-gui.git',
+            'main'
+        ]
 
-        # Pull the latest changes using the token for authentication
-        subprocess.run(["git", "pull", github_url, "main"], check=True)
-        print("Pulled from GitHub successfully!")
+        subprocess.check_call(pull_command)
+        print("Successfully pulled from GitHub.")
+
     except subprocess.CalledProcessError as e:
         print(f"Error pulling from GitHub: {e}")
-    except FileNotFoundError:
-        print("GitHub token file not found.")
+    except Exception as e:
+        print(f"Unexpected error: {e}")
 
 root = tk.Tk()
 root.title("To-Do List")
@@ -118,4 +125,3 @@ load_items()
 
 root.geometry("300x600") 
 root.mainloop()
-
