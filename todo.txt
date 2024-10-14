@@ -8,6 +8,6 @@ email andreas,False
 email elisa,False
 email hendrik,False
 email makimoto from alpha-g,True
-email alfredo,True
+email alfredo,False
 update CV with new dates,False
 VANT 140 course rubric,False
