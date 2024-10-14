@@ -72,13 +72,16 @@ def push_to_github():
 
 def pull_from_github():
     try:
+        with open(todo_file_path+'github-code.txt', 'r') as f:
+            github_token = f.read().strip()
+
         # Change the current working directory to the Git repository
         os.chdir(todo_file_path)
 
         # Git pull command
         pull_command = [
             'git', 'pull', 
-            'https://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:x-oauth-basic@github.com/msekatchev/to-do-gui.git',
+            f'https://{github_token}:x-oauth-basic@github.com/msekatchev/to-do-gui.git',
             'main'
         ]
 
