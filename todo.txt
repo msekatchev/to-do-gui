@@ -5,7 +5,7 @@ hotel booking for EU trip,True
 tim tait emails,True
 apply to CCL,True
 email andreas,False
-email elisa,False
+email elisa,True
 email hendrik,False
 email makimoto from alpha-g,True
 email alfredo,False
