@@ -2,7 +2,7 @@ alfredo hunter solution,True
 ucbtg implied cov,True
 aqn signal generation testing,True
 hotel booking for EU trip,True
-tim tait emails,True
+tim tait emails,False
 apply to CCL,True
 email andreas,False
 email elisa,False
@@ -11,3 +11,5 @@ email alfredo,False
 update CV with new dates,False
 VANT 140 course rubric,False
 email makoto from ALPHA-g,False
+respond to Hendrik,False
+respond to David (from Tim Tait),False
