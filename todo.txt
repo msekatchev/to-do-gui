@@ -9,7 +9,7 @@ email elisa,False
 email hendrik,False
 email alfredo,False
 update CV with new dates,False
-VANT 140 course rubric,False
+VANT 140 course rubric,True
 email makoto from ALPHA-g,False
 respond to Hendrik,False
 respond to David (from Tim Tait),False
