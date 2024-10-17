@@ -11,8 +11,8 @@ email alfredo,False
 update CV with new dates,False
 VANT 140 course rubric,False
 email makoto from ALPHA-g,False
-respond to Hendrik,False
-respond to David (from Tim Tait),False
-email Max Swiatlowski,False
-email Ben's student(s) about app,False
-VANT 140 grading,False
+respond to Hendrik,True
+respond to David (from Tim Tait),True
+email Max Swiatlowski,True
+email Ben's student(s) about app,True
+VANT 140 grading,True
