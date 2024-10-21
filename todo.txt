@@ -16,4 +16,4 @@ respond to David (from Tim Tait),True
 email Max Swiatlowski,True
 email Ben's student(s) about app,True
 VANT 140 grading,True
-email Jenny G. Sorce?,False
+email Jenny G. Sorce?,True
