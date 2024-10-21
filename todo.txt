@@ -23,4 +23,5 @@ STAT assignment 2,True
 book room,False
 respond to Mark,True
 prereading for ATLAS,True
-email Alison Lister,False
+email Alison Lister,True
+read orthogonal ML paper,False
