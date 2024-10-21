@@ -20,7 +20,7 @@ email Jenny G. Sorce?,True
 alfredo grading,False
 scie 113 grading,False
 STAT assignment 2,True
-book room,True
+book room,False
 respond to Mark,True
 prereading for ATLAS,True
 email Alison Lister,False
