@@ -23,3 +23,4 @@ STAT assignment 2,True
 book room,True
 respond to Mark,False
 prereading for ATLAS,False
+email Alison Lister,False
