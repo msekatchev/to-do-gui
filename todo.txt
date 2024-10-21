@@ -17,6 +17,6 @@ email Max Swiatlowski,True
 email Ben's student(s) about app,True
 VANT 140 grading,True
 email Jenny G. Sorce?,True
-alfredo grading,True
+alfredo grading,False
 scie 113 grading,False
 STAT assignment 2,False
