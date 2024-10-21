@@ -12,7 +12,7 @@ todo_file_path = '/Users/msekatchev/Documents/Coding/to-do-gui/'
 def add_item():
     item = input_field.get()
     if item:
-        items.append((item, "False"))
+        items.append((item, "True"))
         list_box.insert("end", item)
         input_field.delete(0, "end")
 
