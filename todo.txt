@@ -19,5 +19,5 @@ VANT 140 grading,True
 email Jenny G. Sorce?,True
 alfredo grading,False
 scie 113 grading,False
-STAT assignment 2,False
-book room,False
+STAT assignment 2,True
+book room,True
