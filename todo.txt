@@ -15,7 +15,7 @@ respond to Hendrik,True
 respond to David (from Tim Tait),True
 email Max Swiatlowski,True
 email Ben's student(s) about app,True
-VANT 140 grading,True
+VANT 140 grading,False
 email Jenny G. Sorce?,True
 alfredo grading,False
 scie 113 grading,False
