@@ -23,3 +23,4 @@ read orthogonal ML paper,True
 XLZD collaboration mass email,True
 email alfredo about tomorrow,False
 email Kate's contacts,True
+apply to Amazon,True
