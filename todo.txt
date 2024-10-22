@@ -2,15 +2,11 @@ alfredo hunter solution,True
 ucbtg implied cov,True
 aqn signal generation testing,True
 hotel booking for EU trip,True
-tim tait emails,False
 apply to CCL,True
 email andreas,False
 email elisa,False
 email hendrik,False
-email alfredo,False
-update CV with new dates,False
 VANT 140 course rubric,False
-email makoto from ALPHA-g,False
 respond to Hendrik,True
 respond to David (from Tim Tait),True
 email Max Swiatlowski,True
@@ -27,3 +23,4 @@ email Alison Lister,True
 read orthogonal ML paper,True
 XLZD collaboration mass email,True
 email alfredo about tomorrow,True
+email Kate's contacts,True
