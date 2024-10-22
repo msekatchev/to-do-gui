@@ -1,5 +1,4 @@
 alfredo hunter solution,True
-ucbtg implied cov,True
 aqn signal generation testing,True
 hotel booking for EU trip,True
 apply to CCL,True
