@@ -8,7 +8,7 @@ email hendrik,False
 VANT 140 course rubric,False
 respond to Hendrik,True
 respond to David (from Tim Tait),True
-email Max Swiatlowski,True
+email Max Swiatlowski,False
 email Ben's student(s) about app,True
 VANT 140 grading,False
 email Jenny G. Sorce?,True
