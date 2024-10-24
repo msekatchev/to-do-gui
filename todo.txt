@@ -25,4 +25,4 @@ email alfredo about tomorrow,False
 email Kate's contacts,True
 apply to Amazon,True
 email Makoto,False
-email Douglas Scott about Overleaf,True
+email Douglas Scott about Overleaf,False
