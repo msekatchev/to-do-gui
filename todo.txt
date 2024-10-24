@@ -17,8 +17,7 @@ scie 113 grading,False
 STAT assignment 2,True
 book room,False
 respond to Mark,True
-prereading for ATLAS,True
-email Alison Lister,True
+email Alison Lister,False
 read orthogonal ML paper,True
 XLZD collaboration mass email,True
 email alfredo about tomorrow,False
