@@ -16,7 +16,7 @@ alfredo grading,False
 scie 113 grading,False
 STAT assignment 2,True
 book room,False
-respond to Mark,True
+respond to Mark,False
 email Alison Lister,False
 read orthogonal ML paper,True
 XLZD collaboration mass email,True
