@@ -3,7 +3,6 @@ aqn signal generation testing,True
 hotel booking for EU trip,True
 apply to CCL,True
 email andreas,False
-email elisa,False
 email hendrik,False
 VANT 140 course rubric,False
 respond to Hendrik,True
