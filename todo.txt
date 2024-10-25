@@ -12,6 +12,7 @@ XLZD collaboration mass email,True
 hotel booking for EU trip,True
 respond to Hendrik,True
 respond to David (from Tim Tait),True
+respond to Makoto,True
 email Max Swiatlowski,False
 email andreas,False
 VANT 140 grading,False
@@ -24,4 +25,3 @@ email Alison Lister,False
 email alfredo about tomorrow,False
 email Makoto,False
 email Douglas Scott about Overleaf,False
-respond to Makoto,True
