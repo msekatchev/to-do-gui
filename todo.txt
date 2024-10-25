@@ -12,7 +12,7 @@ hotel booking for EU trip,True
 respond to Hendrik,True
 respond to David (from Tim Tait),True
 email Max Swiatlowski,False
-email andreas,True
+email andreas,False
 VANT 140 grading,False
 alfredo grading,False
 scie 113 grading,False
