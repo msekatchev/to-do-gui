@@ -25,3 +25,4 @@ email Alison Lister,False
 email alfredo about tomorrow,False
 email Makoto,False
 email Douglas Scott about Overleaf,False
+email German prof for dad,True
