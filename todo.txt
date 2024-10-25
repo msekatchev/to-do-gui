@@ -1,5 +1,5 @@
 respond to Alison,False
-apply to Amazon,True
+apply to Amazon,False
 aqn signal generation testing,True
 alfredo hunter solution,True
 apply to CCL,True
