@@ -1,6 +1,6 @@
+apply to Amazon,True
 aqn signal generation testing,True
 alfredo hunter solution,True
-apply to Amazon,True
 apply to CCL,True
 email Kate's contacts,True
 STAT project proposal,True
