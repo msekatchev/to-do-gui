@@ -1,9 +1,9 @@
+email hendrik,False
 alfredo hunter solution,True
 aqn signal generation testing,True
 hotel booking for EU trip,True
 apply to CCL,True
 email andreas,False
-email hendrik,False
 VANT 140 course rubric,False
 respond to Hendrik,True
 respond to David (from Tim Tait),True
