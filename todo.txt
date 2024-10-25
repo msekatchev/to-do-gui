@@ -1,26 +1,25 @@
 aqn signal generation testing,True
 alfredo hunter solution,True
 apply to Amazon,True
-email hendrik,False
 apply to CCL,True
-email andreas,False
-VANT 140 course rubric,False
+email Kate's contacts,True
+STAT project proposal,True
+read orthogonal ML paper,True
 email Ben's student(s) about app,True
 email Jenny G. Sorce?,True
+XLZD collaboration mass email,True
 hotel booking for EU trip,True
 respond to Hendrik,True
 respond to David (from Tim Tait),True
 email Max Swiatlowski,False
+email andreas,False
 VANT 140 grading,False
 alfredo grading,False
 scie 113 grading,False
-STAT assignment 2,True
+STAT assignment 2,False
 book room,False
 respond to Mark,False
 email Alison Lister,False
-read orthogonal ML paper,True
-XLZD collaboration mass email,True
 email alfredo about tomorrow,False
-email Kate's contacts,True
 email Makoto,False
 email Douglas Scott about Overleaf,False
