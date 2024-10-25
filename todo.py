@@ -7,7 +7,7 @@ items = []
 # run the command below to produce a .exe file on Linux or MacOS
 # pyinstaller --onefile --windowed todo.py
 
-todo_file_path = '/Users/msekatchev/Documents/Coding/to-do-gui/'
+todo_file_path = '/home/michael/python/todo/to-do-gui/'
 
 def add_item():
     item = input_field.get()
@@ -33,11 +33,55 @@ def delete_item():
         items.pop(index)
     list_box.selection_set(0)
 
+def delete_todo_key(event):
+    """Method to delete todo item when Delete key is pressed."""
+    delete_item()
+
 def save_items():
     with open('todo.txt', 'w') as f:
         for item in items:
             f.write(f"{item[0]},{item[1]}\n")
+
+def save_items_and_push():
+    save_items()
     push_to_github()
+
+def move_up():
+    try:
+        selected_index = list_box.curselection()[0]
+        if selected_index > 0:
+            item_text = list_box.get(selected_index)
+            list_box.delete(selected_index)
+            list_box.insert(selected_index - 1, item_text)
+            list_box.select_set(selected_index - 1)
+
+            prev_item = items[selected_index-1]
+            current_item = items[selected_index]
+            items[selected_index-1] = current_item
+            items[selected_index] = prev_item
+            save_items()
+    except IndexError:
+        messagebox.showwarning("Selection Error", "Please select an item to move.")
+
+def move_down():
+    try:
+        selected_index = list_box.curselection()[0]
+        if selected_index < list_box.size() - 1:
+            item_text = list_box.get(selected_index)
+            list_box.delete(selected_index)
+            list_box.insert(selected_index + 1, item_text)
+            list_box.select_set(selected_index + 1)
+            
+            prev_item = items[selected_index+1]
+            current_item = items[selected_index]
+            items[selected_index+1] = current_item
+            items[selected_index] = prev_item
+            save_items()
+    except IndexError:
+        messagebox.showwarning("Selection Error", "Please select an item to move.")
+
+
+
 
 def load_items():
     try:
@@ -117,14 +161,23 @@ scrollbar.pack(side="right", fill="y")
 list_box.config(yscrollcommand=scrollbar.set)
 scrollbar.config(command=list_box.yview)
 
-check_off_button = tk.Button(root, text="Check off", command=check_off)
+check_off_button = tk.Button(root, text="√", command=check_off)
 check_off_button.pack(side="left", padx=(10, 0))
 
-delete_button = tk.Button(root, text="Delete", command=delete_item)
+delete_button = tk.Button(root, text="X", command=delete_item)
 delete_button.pack(side="left", padx=(5, 0))
 
-save_button = tk.Button(root, text="Save", command=save_items)
+up_button = tk.Button(root, text="↑", width=1, command=move_up)
+up_button.pack(side="left", padx=(5, 0))
+
+down_button = tk.Button(root, text="↓", width=1, command=move_down)
+down_button.pack(side="left", padx=(5, 0))
+
+save_button = tk.Button(root, text="S", command=save_items_and_push)
 save_button.pack(side="left", padx=(5, 0))
+
+root.bind('<Delete>', delete_todo_key)
+
 
 # Pull the latest list from GitHub and load the contents of the file
 load_items()
