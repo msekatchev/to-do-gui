@@ -1,16 +1,17 @@
-email hendrik,False
-alfredo hunter solution,True
 aqn signal generation testing,True
-hotel booking for EU trip,True
+alfredo hunter solution,True
+apply to Amazon,True
+email hendrik,False
 apply to CCL,True
 email andreas,False
 VANT 140 course rubric,False
+email Ben's student(s) about app,True
+email Jenny G. Sorce?,True
+hotel booking for EU trip,True
 respond to Hendrik,True
 respond to David (from Tim Tait),True
 email Max Swiatlowski,False
-email Ben's student(s) about app,True
 VANT 140 grading,False
-email Jenny G. Sorce?,True
 alfredo grading,False
 scie 113 grading,False
 STAT assignment 2,True
@@ -21,6 +22,5 @@ read orthogonal ML paper,True
 XLZD collaboration mass email,True
 email alfredo about tomorrow,False
 email Kate's contacts,True
-apply to Amazon,True
 email Makoto,False
 email Douglas Scott about Overleaf,False
