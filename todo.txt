@@ -27,4 +27,4 @@ email Makoto,False
 email Douglas Scott about Overleaf,False
 email German prof for dad,True
 email Makoto's profs,True
-email Makoto's students,True
+email Makoto's students,False
