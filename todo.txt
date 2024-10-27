@@ -15,11 +15,6 @@ respond to David (from Tim Tait),True
 respond to Makoto,True
 email Max Swiatlowski,False
 email andreas,False
-VANT 140 grading,False
-alfredo grading,False
-scie 113 grading,False
-STAT assignment 2,False
-book room,False
 respond to Mark,False
 email Alison Lister,False
 email alfredo about tomorrow,False
@@ -29,3 +24,4 @@ email German prof for dad,True
 email Makoto's profs,True
 email Makoto's students,False
 email dept assistant to get photos,True
+scie 113 worksheet grading,True
