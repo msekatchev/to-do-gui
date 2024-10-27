@@ -4,7 +4,7 @@ aqn signal generation testing,True
 alfredo hunter solution,True
 apply to CCL,True
 email Kate's contacts,True
-STAT project proposal,True
+STAT project proposal,False
 read orthogonal ML paper,True
 email Ben's student(s) about app,True
 email Jenny G. Sorce?,True
