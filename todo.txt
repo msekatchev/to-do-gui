@@ -2,7 +2,7 @@ respond to Alison,False
 apply to Amazon,False
 aqn signal generation testing,True
 alfredo hunter solution,True
-apply to CCL,True
+apply to CCL,False
 email Kate's contacts,True
 STAT project proposal,False
 read orthogonal ML paper,True
@@ -25,3 +25,4 @@ email Makoto's profs,True
 email Makoto's students,False
 email dept assistant to get photos,True
 scie 113 worksheet grading,True
+email philippe cauchon,True
