@@ -2,7 +2,7 @@ respond to Alison,False
 apply to Amazon,False
 aqn signal generation testing,True
 alfredo hunter solution,True
-respond to Kate's contacts,True
+respond to Kate's contacts,False
 email Germans,True
 email Makoto's profs,True
 apply to CCL,False
