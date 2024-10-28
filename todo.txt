@@ -26,4 +26,4 @@ email Makoto's students,False
 email dept assistant to get photos,False
 scie 113 worksheet grading,True
 email philippe cauchon,True
-book room,True
+book room,False
