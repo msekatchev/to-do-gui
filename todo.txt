@@ -12,7 +12,7 @@ XLZD collaboration mass email,True
 hotel booking for EU trip,True
 respond to Hendrik,True
 respond to David (from Tim Tait),True
-respond to Makoto,True
+respond to Makoto,False
 email Max Swiatlowski,False
 email andreas,False
 respond to Mark,False
@@ -26,3 +26,4 @@ email Makoto's students,False
 email dept assistant to get photos,True
 scie 113 worksheet grading,True
 email philippe cauchon,True
+book room,True
