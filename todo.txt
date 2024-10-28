@@ -10,7 +10,7 @@ email Ben's student(s) about app,True
 email Jenny G. Sorce?,True
 XLZD collaboration mass email,True
 hotel booking for EU trip,True
-respond to Hendrik,True
+respond to Hendrik,False
 respond to David (from Tim Tait),True
 respond to Makoto,False
 email Max Swiatlowski,False
