@@ -23,7 +23,7 @@ email Douglas Scott about Overleaf,False
 email German prof for dad,True
 email Makoto's profs,True
 email Makoto's students,False
-email dept assistant to get photos,True
+email dept assistant to get photos,False
 scie 113 worksheet grading,True
 email philippe cauchon,True
 book room,True
