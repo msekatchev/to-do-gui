@@ -1,3 +1,4 @@
+apply to DESY Hamburg,True
 respond to Alison,False
 apply to Amazon,False
 aqn signal generation testing,True
