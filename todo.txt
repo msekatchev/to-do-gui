@@ -16,15 +16,11 @@ hotel booking for EU trip,True
 respond to Hendrik,False
 respond to David (from Tim Tait),True
 respond to Makoto,False
-email Max Swiatlowski,False
 email andreas,False
-respond to Mark,False
 email Alison Lister,False
 email alfredo about tomorrow,False
 email Makoto,False
-email Douglas Scott about Overleaf,False
 email Makoto's students,False
 email dept assistant to get photos,False
 scie 113 worksheet grading,True
 email philippe cauchon,True
-book room,False
