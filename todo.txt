@@ -14,7 +14,6 @@ email Jenny G. Sorce?,True
 XLZD collaboration mass email,True
 hotel booking for EU trip,True
 respond to Hendrik,False
-respond to David (from Tim Tait),True
 respond to Makoto,False
 email andreas,False
 email Alison Lister,False
@@ -24,3 +23,4 @@ email Makoto's students,False
 email dept assistant to get photos,False
 scie 113 worksheet grading,True
 email philippe cauchon,True
+email Daniel (tim tait),True
