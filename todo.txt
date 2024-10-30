@@ -26,4 +26,4 @@ scie 113 worksheet grading,True
 Nikhef LHCb Application,True
 Nikhef LHCb Email,True
 CC&L Interview Prep,True
-email KM3NeT Sonia,True
+email KM3NeT Sonia,False
