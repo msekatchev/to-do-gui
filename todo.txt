@@ -1,8 +1,9 @@
 apply to DESY Hamburg,False
 aqn signal generation testing,False
 Nikhef KM3NeT Application,True
-alfredo hunter solution,True
+Nikhef KM3NeT Email,True
 images for Brina,True
+alfredo hunter solution,True
 email Germans,True
 email Makoto's profs,True
 bring folder tomorrow,True
@@ -23,5 +24,4 @@ CPSC project proposal,True
 scie 113 worksheet grading,True
 Nikhef LHCb Application,True
 Nikhef LHCb Email,True
-Nikhef KM3NeT Email,True
 CC&L Interview Prep,True
