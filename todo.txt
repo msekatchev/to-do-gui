@@ -22,3 +22,5 @@ CPSC project proposal,True
 scie 113 worksheet grading,True
 Nikhef KM3NeT Application,True
 Nikhef LHCb Application,True
+Nikhef LHCb Email,True
+Nikhef KM3NeT Email,True
