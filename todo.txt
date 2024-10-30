@@ -17,8 +17,6 @@ hotel booking for EU trip,True
 respond to Hendrik,False
 respond to Makoto,False
 email andreas,False
-email Alison Lister,False
-email alfredo about tomorrow,False
 email Makoto,False
 email Makoto's students,False
 email dept assistant to get photos,False
