@@ -20,3 +20,5 @@ email Daniel (tim tait),True
 CPSC assignment 2,True
 CPSC project proposal,True
 scie 113 worksheet grading,True
+Nikhef KM3NeT Application,True
+Nikhef LHCb Application,True
