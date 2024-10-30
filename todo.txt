@@ -1,4 +1,4 @@
-apply to DESY Hamburg,True
+apply to DESY Hamburg,False
 aqn signal generation testing,True
 alfredo hunter solution,True
 images for Brina,True
