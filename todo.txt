@@ -1,11 +1,13 @@
 apply to DESY Hamburg,True
-respond to Alison,False
-apply to Amazon,False
 aqn signal generation testing,True
 alfredo hunter solution,True
-respond to Kate's contacts,False
+images for Brina,True
 email Germans,True
 email Makoto's profs,True
+bring folder tomorrow,True
+respond to Alison,False
+apply to Amazon,False
+respond to Kate's contacts,False
 apply to CCL,False
 email Kate's contacts,False
 STAT project proposal,False
@@ -23,4 +25,3 @@ email dept assistant to get photos,False
 scie 113 worksheet grading,True
 email philippe cauchon,True
 email Daniel (tim tait),True
-bring folder tomorrow,True
