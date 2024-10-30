@@ -5,13 +5,13 @@ images for Brina,True
 email Germans,True
 email Makoto's profs,True
 bring folder tomorrow,True
+read orthogonal ML paper,True
 respond to Alison,False
 apply to Amazon,False
 respond to Kate's contacts,False
 apply to CCL,False
 email Kate's contacts,False
 STAT project proposal,False
-read orthogonal ML paper,True
 email Ben's student(s) about app,True
 email Jenny G. Sorce?,True
 XLZD collaboration mass email,True
