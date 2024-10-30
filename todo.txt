@@ -25,3 +25,5 @@ email dept assistant to get photos,False
 scie 113 worksheet grading,True
 email philippe cauchon,True
 email Daniel (tim tait),True
+CPSC assignment 2,True
+CPSC project proposal,True
