@@ -8,7 +8,6 @@ alfredo hunter solution,True
 email Germans,True
 email Ben's student(s) about app,True
 email Makoto's profs,True
-bring folder tomorrow,True
 read orthogonal ML paper,True
 hotel booking for EU trip,True
 apply to Amazon,False
