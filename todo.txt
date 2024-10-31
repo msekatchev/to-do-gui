@@ -1,7 +1,7 @@
 apply to DESY Hamburg,False
 aqn signal generation testing,False
-Nikhef KM3NeT Application,True
-Nikhef KM3NeT Email,True
+Nikhef KM3NeT Application,False
+Nikhef KM3NeT Email,False
 email KM3NeT Spokesperson,False
 images for Brina,True
 alfredo hunter solution,True
