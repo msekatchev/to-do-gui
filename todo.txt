@@ -4,7 +4,6 @@ alfredo hunter solution,True
 email Ben's student(s) about app,True
 email Makoto's profs,True
 read orthogonal ML paper,True
-hotel booking for EU trip,True
 email Jenny G. Sorce?,True
 XLZD collaboration mass email,True
 email dept assistant to get photos,False
@@ -17,3 +16,4 @@ scie 113 speaker series grading,True
 scie 113 speaker series prep,True
 alfredo midterm grading,True
 alfredo spoken solution grading,True
+hotel booking for Munich,True
