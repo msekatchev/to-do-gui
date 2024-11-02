@@ -1,8 +1,4 @@
-apply to DESY Hamburg,False
 aqn signal generation testing,False
-Nikhef KM3NeT Application,False
-Nikhef KM3NeT Email,False
-email KM3NeT Spokesperson,False
 images for Brina,True
 alfredo hunter solution,True
 email Germans,True
@@ -10,8 +6,6 @@ email Ben's student(s) about app,True
 email Makoto's profs,True
 read orthogonal ML paper,True
 hotel booking for EU trip,True
-apply to Amazon,False
-respond to Kate's contacts,False
 email Jenny G. Sorce?,True
 XLZD collaboration mass email,True
 email dept assistant to get photos,False
@@ -20,8 +14,5 @@ email Daniel (tim tait),True
 CPSC assignment 2,True
 CPSC project proposal,True
 scie 113 worksheet grading,True
-Nikhef LHCb Application,False
-Nikhef LHCb Email,False
-email KM3NeT Sonia,False
 scie 113 speaker series grading,True
 scie 113 speaker series prep,True
