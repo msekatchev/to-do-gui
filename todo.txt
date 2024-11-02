@@ -16,3 +16,5 @@ CPSC project proposal,True
 scie 113 worksheet grading,True
 scie 113 speaker series grading,True
 scie 113 speaker series prep,True
+alfredo midterm grading,True
+alfredo spoken solution grading,True
