@@ -20,8 +20,8 @@ email Daniel (tim tait),True
 CPSC assignment 2,True
 CPSC project proposal,True
 scie 113 worksheet grading,True
-Nikhef LHCb Application,True
-Nikhef LHCb Email,True
+Nikhef LHCb Application,False
+Nikhef LHCb Email,False
 email KM3NeT Sonia,False
 scie 113 speaker series grading,True
 scie 113 speaker series prep,True
