@@ -1,5 +1,5 @@
 aqn signal generation testing,False
-images for Brina,True
+images for Brina,False
 alfredo hunter solution,True
 email Ben's student(s) about app,True
 email Makoto's profs,True
