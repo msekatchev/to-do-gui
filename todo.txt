@@ -1,6 +1,6 @@
 aqn signal generation testing,False
 images for Brina,False
-alfredo hunter solution,True
+alfredo hunter solution,False
 email Ben's student(s) about app,True
 email Makoto's profs,True
 read orthogonal ML paper,True
@@ -17,3 +17,4 @@ scie 113 speaker series prep,True
 alfredo midterm grading,True
 alfredo spoken solution grading,True
 hotel booking for Munich,True
+cpsc draft proposal,True
