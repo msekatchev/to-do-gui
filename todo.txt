@@ -20,3 +20,4 @@ hotel booking for Munich,True
 cpsc draft proposal,True
 email vincent,False
 some apps at Marseille uni,True
+gym spreadsheet,True
