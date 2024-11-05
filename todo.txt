@@ -13,9 +13,10 @@ CPSC assignment 2,True
 CPSC project proposal,True
 scie 113 worksheet grading,True
 scie 113 speaker series grading,True
-scie 113 speaker series prep,True
+scie 113 speaker series prep,False
 alfredo midterm grading,True
 alfredo spoken solution grading,True
 hotel booking for Munich,True
 cpsc draft proposal,True
-email vincent,True
+email vincent,False
+some apps at Marseille uni,True
