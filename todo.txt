@@ -18,3 +18,4 @@ alfredo midterm grading,True
 alfredo spoken solution grading,True
 hotel booking for Munich,True
 cpsc draft proposal,True
+email vincent,True
