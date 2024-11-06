@@ -21,3 +21,5 @@ cpsc draft proposal,True
 email vincent,False
 some apps at Marseille uni,True
 gym spreadsheet,True
+Eiffel application,True
+Imperial application,True
