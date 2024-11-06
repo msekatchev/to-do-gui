@@ -23,3 +23,5 @@ some apps at Marseille uni,True
 gym spreadsheet,True
 Eiffel application,True
 Imperial application,True
+practice EDI presentation,True
+alfredo instructions for search func,True
