@@ -1,5 +1,3 @@
-alfredo midterm grading,True
-alfredo spoken solution grading,True
 aqn signal generation testing,True
 images for Brina,False
 alfredo hunter solution,False
