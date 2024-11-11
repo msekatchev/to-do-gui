@@ -8,9 +8,14 @@ Imperial interview prep,True
 UBC application,True
 SFU application,True
 Presentation for Oberlack,True
+CCL interview prep,True
 email Ben's student(s) about app,True
-email Makoto's profs,True
+Phone plan for trip,True
+---------------------------------,True
 CPSC assignment 2,True
+STAT assignment 3,True
+STAT Project Part 1,True
+---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
 email Daniel (tim tait),True
@@ -19,3 +24,4 @@ hotel booking for Munich,True
 cpsc draft proposal,True
 some apps at Marseille uni,True
 email Jenny G. Sorce?,True
+email Makoto's profs,True
