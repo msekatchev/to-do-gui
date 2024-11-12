@@ -9,7 +9,7 @@ UBC application,True
 SFU application,True
 Presentation for Oberlack,True
 CCL interview prep,True
-email Ben's student(s) about app,True
+email Ben's student(s) about app,False
 Phone plan for trip,True
 ---------------------------------,True
 CPSC assignment 2,True
