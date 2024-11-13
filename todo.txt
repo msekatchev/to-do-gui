@@ -4,7 +4,7 @@ scie 113 worksheet grading,False
 scie 113 speaker series grading,True
 ---------------------------------,True
 Eiffel application,True
-Imperial interview prep,True
+Imperial interview prep,False
 UBC application,True
 SFU application,True
 Presentation for Oberlack,True
