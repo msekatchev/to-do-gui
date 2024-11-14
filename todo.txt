@@ -5,11 +5,11 @@ scie 113 speaker series grading,True
 ---------------------------------,True
 CCL interview prep,True
 Phone plan for trip,True
+Presentation for Oberlack,True
 Eiffel application,True
+SFU application,True
 Imperial interview prep,False
 UBC application,False
-SFU application,True
-Presentation for Oberlack,True
 email Ben's student(s) about app,False
 ---------------------------------,True
 STAT Project Part 1,True
