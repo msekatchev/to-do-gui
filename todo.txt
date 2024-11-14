@@ -1,7 +1,7 @@
 aqn signal generation testing,True
 reply to Brina,True
-scie 113 worksheet grading,False
 scie 113 speaker series grading,True
+scie 113 worksheet grading,False
 ---------------------------------,True
 CCL interview prep,True
 Phone plan for trip,True
