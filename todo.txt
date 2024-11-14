@@ -5,7 +5,7 @@ scie 113 speaker series grading,True
 ---------------------------------,True
 Eiffel application,True
 Imperial interview prep,False
-UBC application,True
+UBC application,False
 SFU application,True
 Presentation for Oberlack,True
 CCL interview prep,True
