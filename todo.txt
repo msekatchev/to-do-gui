@@ -12,9 +12,9 @@ CCL interview prep,True
 email Ben's student(s) about app,False
 Phone plan for trip,True
 ---------------------------------,True
+STAT Project Part 1,True
 CPSC assignment 2,True
 STAT assignment 3,True
-STAT Project Part 1,True
 ---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
