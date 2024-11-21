@@ -3,18 +3,18 @@ reply to Brina,True
 scie 113 speaker series grading,True
 scie 113 worksheet grading,False
 ---------------------------------,True
-CCL interview prep,True
-Phone plan for trip,True
-Presentation for Oberlack,True
+CCL interview prep,False
+Phone plan for trip,False
+Presentation for Oberlack,False
 Eiffel application,True
 SFU application,True
 Imperial interview prep,False
 UBC application,False
 email Ben's student(s) about app,False
 ---------------------------------,True
-STAT Project Part 1,True
-CPSC assignment 2,True
-STAT assignment 3,True
+STAT Project Part 1,False
+CPSC assignment 2,False
+STAT assignment 3,False
 ---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
