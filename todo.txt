@@ -25,5 +25,5 @@ cpsc draft proposal,True
 some apps at Marseille uni,True
 email Jenny G. Sorce?,True
 email Makoto's profs,True
-email Alfredo,True
 reimbursement for Riccardo,True
+grading for Alfredo,True
