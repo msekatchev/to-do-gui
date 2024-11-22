@@ -1,6 +1,7 @@
 aqn signal generation testing,True
 reply to Brina,True
 scie 113 speaker series grading,True
+grading for Alfredo,True
 ---------------------------------,True
 Eiffel application,True
 SFU application,True
@@ -17,7 +18,6 @@ some apps at Marseille uni,True
 email Jenny G. Sorce?,True
 email Makoto's profs,True
 reimbursement for Riccardo,True
-grading for Alfredo,True
 respond to SCIE 113 TA assignment,False
 email Oberlack,True
 email Oberlack scholarship,True
