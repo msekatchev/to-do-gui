@@ -28,3 +28,4 @@ email Jenny G. Sorce?,True
 email Makoto's profs,True
 reimbursement for Riccardo,True
 grading for Alfredo,True
+respond to SCIE 113 TA assignment,True
