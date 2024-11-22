@@ -1,15 +1,10 @@
 aqn signal generation testing,True
 reply to Brina,True
 scie 113 speaker series grading,True
-scie 113 worksheet grading,False
 ---------------------------------,True
-CCL interview prep,False
-Phone plan for trip,False
-Presentation for Oberlack,False
 Eiffel application,True
 SFU application,True
 apply to BC Graduate Scholarship,True
-Imperial interview prep,False
 ---------------------------------,True
 CPSC project,True
 ---------------------------------,True
@@ -24,3 +19,4 @@ email Makoto's profs,True
 reimbursement for Riccardo,True
 grading for Alfredo,True
 respond to SCIE 113 TA assignment,False
+email Oberlack,True
