@@ -20,3 +20,4 @@ reimbursement for Riccardo,True
 grading for Alfredo,True
 respond to SCIE 113 TA assignment,False
 email Oberlack,True
+email Oberlack scholarship,True
