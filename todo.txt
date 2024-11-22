@@ -21,3 +21,4 @@ grading for Alfredo,True
 respond to SCIE 113 TA assignment,False
 email Oberlack,True
 email Oberlack scholarship,True
+check Silke's thesis,True
