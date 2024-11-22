@@ -10,19 +10,14 @@ Eiffel application,True
 SFU application,True
 apply to BC Graduate Scholarship,True
 Imperial interview prep,False
-UBC application,False
-email Ben's student(s) about app,False
 ---------------------------------,True
-STAT Project Part 1,False
-CPSC assignment 2,False
-STAT assignment 3,False
+CPSC project,True
 ---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
 email Daniel (tim tait),True
 CPSC project proposal,True
 hotel booking for Munich,True
-cpsc draft proposal,True
 some apps at Marseille uni,True
 email Jenny G. Sorce?,True
 email Makoto's profs,True
