@@ -8,6 +8,7 @@ Phone plan for trip,False
 Presentation for Oberlack,False
 Eiffel application,True
 SFU application,True
+apply to BC Graduate Scholarship,True
 Imperial interview prep,False
 UBC application,False
 email Ben's student(s) about app,False
