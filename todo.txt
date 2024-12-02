@@ -1,6 +1,7 @@
 aqn signal generation testing,True
 reply to Brina,True
-scie 113 speaker series grading,False
+add EDI meeting notes for adele,True
+scie 113 speaker series grading,True
 grading for Alfredo,False
 ---------------------------------,True
 Eiffel application,True
