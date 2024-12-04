@@ -6,6 +6,7 @@ alfredo code design project grading,True
 stat 535 assignment 4,True
 5 min presentation for Belgium,True
 grading for Alfredo,False
+create WISE wallet for Nikhef,True
 ---------------------------------,True
 Eiffel application,True
 SFU application,True
@@ -26,4 +27,3 @@ respond to SCIE 113 TA assignment,False
 email Oberlack,False
 email Oberlack scholarship,False
 check Silke's thesis,True
-create WISE wallet for Nikhef,True
