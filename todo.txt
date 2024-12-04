@@ -1,6 +1,6 @@
 aqn signal generation testing,True
 reply to Brina,False
-add EDI meeting notes for adele,True
+add EDI meeting notes for adele,False
 scie 113 speaker series grading,True
 alfredo code design project grading,True
 stat 535 assignment 4,True
