@@ -12,7 +12,7 @@ Eiffel application,True
 SFU application,True
 apply to BC Graduate Scholarship,False
 ---------------------------------,True
-CPSC project,True
+CPSC project,False
 ---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
