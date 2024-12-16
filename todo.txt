@@ -19,11 +19,6 @@ email philippe cauchon,True
 email Daniel (tim tait),True
 CPSC project proposal,True
 hotel booking for Munich,True
-some apps at Marseille uni,True
 email Jenny G. Sorce?,True
 email Makoto's profs,True
-reimbursement for Riccardo,False
-respond to SCIE 113 TA assignment,False
-email Oberlack,False
-email Oberlack scholarship,False
 check Silke's thesis,True
