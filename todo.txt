@@ -13,3 +13,9 @@ hotel booking for Munich,True
 email Jenny G. Sorce?,True
 email Makoto's profs,True
 check Silke's thesis,False
+-----------------------------------,True
+AQN - add Xe,True
+Alfredo - peer grading,True
+Alfredo - grading,True
+EDI - workshop email,True
+Eiffel - finish pp draft,True
