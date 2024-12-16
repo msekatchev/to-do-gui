@@ -1,12 +1,3 @@
-aqn signal generation testing,True
-reply to Brina,False
-add EDI meeting notes for adele,False
-scie 113 speaker series grading,True
-alfredo code design project grading,True
-stat 535 assignment 4,True
-5 min presentation for Belgium,True
-grading for Alfredo,False
-create WISE wallet for Nikhef,False
 ---------------------------------,True
 Eiffel application,True
 SFU application,True
