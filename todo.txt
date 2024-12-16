@@ -21,4 +21,4 @@ CPSC project proposal,True
 hotel booking for Munich,True
 email Jenny G. Sorce?,True
 email Makoto's profs,True
-check Silke's thesis,True
+check Silke's thesis,False
