@@ -6,7 +6,7 @@ alfredo code design project grading,True
 stat 535 assignment 4,True
 5 min presentation for Belgium,True
 grading for Alfredo,False
-create WISE wallet for Nikhef,True
+create WISE wallet for Nikhef,False
 ---------------------------------,True
 Eiffel application,True
 SFU application,True
