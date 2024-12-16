@@ -10,7 +10,7 @@ create WISE wallet for Nikhef,False
 ---------------------------------,True
 Eiffel application,True
 SFU application,True
-apply to BC Graduate Scholarship,True
+apply to BC Graduate Scholarship,False
 ---------------------------------,True
 CPSC project,True
 ---------------------------------,True
