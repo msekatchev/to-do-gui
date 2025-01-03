@@ -22,3 +22,4 @@ PHYS 310 prep,True
 Email - Marseille check-in,True
 Email - Nikhef check-in,True
 Check about Killam TA award,True
+AQN - Thesis Plan,True
