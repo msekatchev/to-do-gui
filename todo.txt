@@ -7,15 +7,10 @@ CPSC project,False
 ---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
-email Daniel (tim tait),True
-CPSC project proposal,True
-hotel booking for Munich,True
-email Jenny G. Sorce?,True
-email Makoto's profs,True
-check Silke's thesis,False
 -----------------------------------,True
 Alfredo - peer grading,False
 Alfredo - grading,False
-Eiffel - finish pp draft,True
+Eiffel - finish pp draft,False
 EDI - workshop email,True
 AQN - add Xe,True
+Oxford Application,True
