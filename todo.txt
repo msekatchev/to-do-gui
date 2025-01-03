@@ -2,12 +2,12 @@ AQN - add Xe,True
 ---------------------------------,True
 Eiffel application,True
 SFU application,True
+Oxford Application,True
 ---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
 -----------------------------------,True
 EDI - workshop email,True
-Oxford Application,True
 Alfredo grant application,True
 Email - Alfredo Oxford Reminder,True
 Email - Munich check-in,True
