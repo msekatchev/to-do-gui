@@ -6,9 +6,6 @@ SFU application,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
 -----------------------------------,True
-Alfredo - peer grading,False
-Alfredo - grading,False
-Eiffel - finish pp draft,False
 EDI - workshop email,True
 Oxford Application,True
 Alfredo grant application,True
