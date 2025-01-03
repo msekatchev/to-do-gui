@@ -1,9 +1,7 @@
+AQN - add Xe,True
 ---------------------------------,True
 Eiffel application,True
 SFU application,True
-apply to BC Graduate Scholarship,False
----------------------------------,True
-CPSC project,False
 ---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
@@ -12,5 +10,12 @@ Alfredo - peer grading,False
 Alfredo - grading,False
 Eiffel - finish pp draft,False
 EDI - workshop email,True
-AQN - add Xe,True
 Oxford Application,True
+Alfredo grant application,True
+Email - Alfredo Oxford Reminder,True
+Email - Munich check-in,True
+Email - Benjamin check-in,True
+Email - Mark check-in,True
+Email - Oxford check-in (after submitting),True
+SCIE 113 prep,True
+PHYS 310 prep,True
