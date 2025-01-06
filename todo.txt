@@ -21,6 +21,6 @@ Email - Nikhef check-in,False
 Check about Killam TA award,True
 AQN - Thesis Plan,False
 Email - Patrick to check Oxford?,False
-email ludo,True
+email ludo,False
 workday task,True
 respond to alfredo,True
