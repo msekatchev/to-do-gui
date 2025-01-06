@@ -17,6 +17,6 @@ Email - Oxford check-in (after submitting),True
 SCIE 113 prep,True
 PHYS 310 prep,True
 Email - Marseille check-in,True
-Email - Nikhef check-in,True
+Email - Nikhef check-in,False
 Check about Killam TA award,True
 AQN - Thesis Plan,False
