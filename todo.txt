@@ -22,6 +22,6 @@ Check about Killam TA award,True
 AQN - Thesis Plan,False
 Email - Patrick to check Oxford?,False
 email ludo,False
-workday task,True
+workday task,False
 respond to alfredo,True
 scie 113 add participation,True
