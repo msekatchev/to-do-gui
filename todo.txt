@@ -20,3 +20,4 @@ Email - Marseille check-in,True
 Email - Nikhef check-in,False
 Check about Killam TA award,True
 AQN - Thesis Plan,False
+Email - Patrick to check Oxford?,True
