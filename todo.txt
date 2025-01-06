@@ -9,7 +9,7 @@ email philippe cauchon,True
 -----------------------------------,True
 EDI - workshop email,True
 Alfredo grant application,True
-Email - Alfredo Oxford Reminder,True
+Email - Alfredo Oxford Reminder,False
 Email - Munich check-in,True
 Email - Benjamin check-in,True
 Email - Mark check-in,True
