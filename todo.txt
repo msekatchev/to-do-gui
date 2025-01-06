@@ -14,7 +14,7 @@ Email - Munich check-in,True
 Email - Benjamin check-in,True
 Email - Mark check-in,True
 Email - Oxford check-in (after submitting),True
-SCIE 113 prep,True
+SCIE 113 prep,False
 PHYS 310 prep,True
 Email - Marseille check-in,True
 Email - Nikhef check-in,False
