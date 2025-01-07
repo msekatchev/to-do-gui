@@ -29,3 +29,4 @@ work on todo app,True
 work on workout app,True
 Check on eiffel app,True
 Email - Hendrik,False
+Apply to Nikhef,True
