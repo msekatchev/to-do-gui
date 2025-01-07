@@ -2,7 +2,6 @@ AQN - add Xe,True
 ---------------------------------,True
 Eiffel application,True
 SFU application,True
-Oxford Application,True
 ---------------------------------,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
@@ -10,6 +9,7 @@ email philippe cauchon,True
 EDI - workshop email,True
 Alfredo grant application,True
 Email - Alfredo Oxford Reminder,False
+Oxford Application,True
 Email - Munich check-in,True
 Email - Benjamin check-in,True
 Email - Mark check-in,True
@@ -25,3 +25,5 @@ email ludo,False
 workday task,False
 respond to alfredo,True
 scie 113 add participation,False
+work on todo app,True
+work on workout app,True
