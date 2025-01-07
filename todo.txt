@@ -1,6 +1,6 @@
 AQN - add Xe,True
 ---------------------------------,True
-Eiffel application,True
+Eiffel application,False
 SFU application,True
 ---------------------------------,True
 XLZD collaboration mass email,True
