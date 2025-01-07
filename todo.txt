@@ -14,9 +14,9 @@ Email - Munich check-in,True
 Email - Benjamin check-in,True
 Email - Mark check-in,True
 Email - Oxford check-in (after submitting),True
+Email - Marseille check-in,True
 SCIE 113 prep,False
 PHYS 310 prep,True
-Email - Marseille check-in,True
 Email - Nikhef check-in,False
 Check about Killam TA award,True
 AQN - Thesis Plan,False
