@@ -10,9 +10,9 @@ EDI - workshop email,True
 Alfredo grant application,True
 Email - Alfredo Oxford Reminder,False
 Oxford Application,True
-Email - Munich check-in,True
-Email - Benjamin check-in,True
-Email - Mark check-in,True
+Email - Munich check-in,False
+Email - Benjamin check-in,False
+Email - Mark check-in,False
 Email - Marseille check-in,True
 Email - Oxford check-in (after submitting),True
 SCIE 113 prep,False
