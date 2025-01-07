@@ -27,3 +27,4 @@ respond to alfredo,True
 scie 113 add participation,False
 work on todo app,True
 work on workout app,True
+Check on eiffel app,True
