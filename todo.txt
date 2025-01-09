@@ -1,6 +1,5 @@
 AQN - add Xe,True
 ---------------------------------,True
-Eiffel application,False
 SFU application,True
 ---------------------------------,True
 XLZD collaboration mass email,True
@@ -8,30 +7,10 @@ email philippe cauchon,True
 -----------------------------------,True
 EDI - workshop email,True
 Alfredo grant application,True
-Email - Alfredo Oxford Reminder,False
-Oxford Application,False
-Email - Munich check-in,False
-Email - Benjamin check-in,False
-Email - Mark check-in,False
-Email - Marseille check-in,False
-Email - Oxford check-in (after submitting),False
-SCIE 113 prep,False
-PHYS 310 prep,False
-Email - Nikhef check-in,False
 Check about Killam TA award,True
-AQN - Thesis Plan,False
-Email - Patrick to check Oxford?,False
-email ludo,False
-workday task,False
-respond to alfredo,False
-scie 113 add participation,False
 work on todo app,True
 work on workout app,True
-Check on eiffel app,False
-Email - Hendrik,False
 Apply to Nikhef,True
 Buy gift for Silke,True
 Buy gift for Silke's mom,True
 Buy plane tickets,True
-respond to Martin,False
-update LinkedIn,True
