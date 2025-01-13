@@ -14,5 +14,6 @@ Apply to Nikhef,True
 Buy gift for Silke,True
 Buy gift for Silke's mom,True
 Buy plane tickets,True
-PHYS 310 Grading,True
 Benjamin check-in?,True
+PHYS 310 - Lab 1,True
+PHYS 310 - HW1,True
