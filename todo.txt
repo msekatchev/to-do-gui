@@ -10,10 +10,10 @@ Alfredo grant application,True
 Check about Killam TA award,True
 work on todo app,True
 work on workout app,True
-Apply to Nikhef,True
 Buy gift for Silke,True
 Buy gift for Silke's mom,True
 Buy plane tickets,False
 Benjamin check-in?,True
 PHYS 310 - Lab 1,True
 PHYS 310 - HW1,True
+Apply to Nikhef - mention confs,True
