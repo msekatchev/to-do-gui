@@ -16,7 +16,7 @@ PHYS 310 - Lab 3,True
 PHYS 310 - Lab 1,True
 PHYS 310 - HW1,True
 Apply to Nikhef - mention confs,True
-EDI - workshop email,True
+EDI - workshop email,False
 Email Benjamin,False
 Email Budker,False
 Email new Mainz prof,False
