@@ -5,7 +5,6 @@ SFU application,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
 -----------------------------------,True
-EDI - workshop email,True
 Alfredo grant application,True
 Check about Killam TA award,True
 work on todo app,True
@@ -17,6 +16,7 @@ PHYS 310 - Lab 3,True
 PHYS 310 - Lab 1,True
 PHYS 310 - HW1,True
 Apply to Nikhef - mention confs,True
+EDI - workshop email,True
 Email Benjamin,True
 Email Budker,True
 Email new Mainz prof,True
