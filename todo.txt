@@ -9,7 +9,7 @@ Alfredo grant application,True
 Check about Killam TA award,True
 work on todo app,True
 work on workout app,True
-Buy gift for Silke,True
+Buy gift for Silke,False
 Buy gift for Silke's mom,True
 Buy plane tickets,False
 PHYS 310 - Lab 3,True
