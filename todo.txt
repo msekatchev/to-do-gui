@@ -13,7 +13,7 @@ Buy gift for Silke,True
 Buy gift for Silke's mom,True
 Buy plane tickets,False
 PHYS 310 - Lab 3,True
-PHYS 310 - Lab 1,True
+PHYS 310 - Lab 1,False
 PHYS 310 - HW1,True
 Apply to Nikhef - mention confs,False
 EDI - workshop email,False
