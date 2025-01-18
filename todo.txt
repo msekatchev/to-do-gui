@@ -20,3 +20,4 @@ EDI - workshop email,False
 Email Benjamin,False
 Email Budker,False
 Email new Mainz prof,False
+Capital Direct - Initiate money transfer,True
