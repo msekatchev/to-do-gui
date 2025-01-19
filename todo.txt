@@ -5,7 +5,6 @@ SFU application,True
 XLZD collaboration mass email,True
 email philippe cauchon,True
 -----------------------------------,True
-Alfredo grant application,True
 Check about Killam TA award,True
 work on todo app,True
 work on workout app,True
@@ -22,3 +21,6 @@ Email Budker,False
 Email new Mainz prof,False
 Capital Direct - Initiate money transfer,True
 SCIE 113 -  WS1,True
+Alfredo grant application,True
+AQN - Read GALEX paper,True
+AQN - Add intro,True
