@@ -10,13 +10,7 @@ work on todo app,True
 work on workout app,True
 Buy gift for Silke,False
 Buy gift for Silke's mom,True
-Buy plane tickets,False
-PHYS 310 - Lab 1,False
-Apply to Nikhef - mention confs,False
 EDI - workshop email,False
-Email Benjamin,False
-Email Budker,False
-Email new Mainz prof,False
 Capital Direct - Initiate money transfer,True
 Alfredo grant application,True
 AQN - Read GALEX paper,True
