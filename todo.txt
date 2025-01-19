@@ -21,3 +21,4 @@ Email Benjamin,False
 Email Budker,False
 Email new Mainz prof,False
 Capital Direct - Initiate money transfer,True
+SCIE 113 -  WS1,True
