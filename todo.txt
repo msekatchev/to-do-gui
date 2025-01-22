@@ -12,7 +12,7 @@ Buy gift for Silke,False
 Buy gift for Silke's mom,True
 EDI - workshop email,False
 Capital Direct - Initiate money transfer,True
-Alfredo grant application,True
+Alfredo grant application,False
 AQN - Read GALEX paper,False
 AQN - Add intro,False
 PHYS 310 - Lab 3,False
