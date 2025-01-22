@@ -13,10 +13,11 @@ Buy gift for Silke's mom,True
 EDI - workshop email,False
 Capital Direct - Initiate money transfer,True
 Alfredo grant application,True
-AQN - Read GALEX paper,True
+AQN - Read GALEX paper,False
 AQN - Add intro,False
 PHYS 310 - Lab 3,False
 PHYS 310 - HW1,False
 SCIE 113 - Presentation,False
 SCIE 113 -  WS1,True
 website update,True
+AQN - AQN model section,True
