@@ -8,7 +8,6 @@ Check about Killam TA award,True
 work on todo app,True
 work on workout app,True
 Buy gift for Silke,False
-Buy gift for Silke's mom,True
 EDI - workshop email,False
 Capital Direct - Initiate money transfer,True
 Alfredo grant application,False
