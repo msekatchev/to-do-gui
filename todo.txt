@@ -19,7 +19,7 @@ PHYS 310 - HW1,False
 SCIE 113 - Presentation,False
 SCIE 113 -  WS1,False
 website update,True
-student aid BC - accept,True
+student aid BC - accept,False
 book room,True
 slope safety training,True
 AQN - FIRE implementation sec,True
