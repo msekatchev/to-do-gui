@@ -19,6 +19,6 @@ SCIE 113 - Presentation,False
 SCIE 113 -  WS1,False
 website update,True
 student aid BC - accept,False
-book room,True
+book room,False
 slope safety training,True
 AQN - FIRE implementation sec,True
