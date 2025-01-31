@@ -23,3 +23,5 @@ book room,False
 slope safety training,True
 AQN - FIRE implementation sec,True
 PHYS 310 - HW2,True
+Martin application via ADUM,True
+Benjamin application via ADUM,True
