@@ -7,21 +7,14 @@ email philippe cauchon,True
 Check about Killam TA award,True
 work on todo app,True
 work on workout app,True
-Buy gift for Silke,False
-EDI - workshop email,False
 Capital Direct - Initiate money transfer,True
-Alfredo grant application,False
-AQN - Read GALEX paper,False
-AQN - Add intro,False
-PHYS 310 - Lab 3,False
-PHYS 310 - HW1,False
 SCIE 113 - Presentation,False
 SCIE 113 -  WS1,False
 website update,True
-student aid BC - accept,False
-book room,False
 slope safety training,True
-AQN - FIRE implementation sec,True
 PHYS 310 - HW2,True
 Martin application via ADUM,True
 Benjamin application via ADUM,True
+AQN - FIRE section,True
+EDI workshop email draft,True
+SCIE 113 - WS Grading,True
