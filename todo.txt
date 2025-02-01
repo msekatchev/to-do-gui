@@ -16,5 +16,5 @@ PHYS 310 - HW2,True
 Martin application via ADUM,True
 Benjamin application via ADUM,True
 AQN - FIRE section,True
-EDI workshop email draft,True
 SCIE 113 - WS Grading,True
+EDI workshop email draft,True
