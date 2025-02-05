@@ -15,7 +15,7 @@ SFU application,True
 ---------------------------------,True
 ---------------------------------,True
 PHYS 310 - HW2,True
-SCIE 113 - Speaker Series,True
+SCIE 113 - Speaker Series,False
 PHYS 310 - Lab 7,True
 PHYS 310 - Lab 9,True
 Alfredo grading,True
