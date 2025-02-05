@@ -1,20 +1,25 @@
 ---------------------------------,True
-SFU application,True
----------------------------------,True
+AQN - FIRE section,True
 XLZD collaboration mass email,True
+Capital Direct - Initiate money transfer,True
 email philippe cauchon,True
 -----------------------------------,True
 Check about Killam TA award,True
 work on todo app,True
 work on workout app,True
-Capital Direct - Initiate money transfer,True
 SCIE 113 - Presentation,False
 SCIE 113 -  WS1,False
 website update,True
 slope safety training,True
+SFU application,True
+---------------------------------,True
+---------------------------------,True
 PHYS 310 - HW2,True
-Martin application via ADUM,True
-Benjamin application via ADUM,True
-AQN - FIRE section,True
-SCIE 113 - WS Grading,True
+SCIE 113 - Speaker Series,True
+PHYS 310 - Lab 7,True
+PHYS 310 - Lab 9,True
+Alfredo grading,True
+Apply to CNES,True
+Apply to ADUM,True
+AQN - Filtering Section,True
 EDI workshop email draft,True
