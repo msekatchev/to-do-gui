@@ -14,10 +14,10 @@ slope safety training,True
 SFU application,True
 ---------------------------------,True
 ---------------------------------,True
-PHYS 310 - HW2,True
+PHYS 310 - HW2,False
 SCIE 113 - Speaker Series,False
-PHYS 310 - Lab 7,True
-PHYS 310 - Lab 9,True
+PHYS 310 - Lab 7,False
+PHYS 310 - Lab 9,False
 Alfredo grading,True
 Apply to CNES,True
 Apply to ADUM,True
