@@ -23,3 +23,6 @@ Apply to CNES,True
 Apply to ADUM,True
 AQN - Filtering Section,True
 EDI workshop email draft,True
+PHYS 310 - HW3,True
+UBCTG - Variable dates,True
+Oxford - Interview Prep,True
