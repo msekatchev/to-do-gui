@@ -14,7 +14,7 @@ SFU application,True
 Oxford - Interview Prep,True
 UBCTG - Variable dates,True
 AQN - Filtering Section,True
-EDI workshop email draft,True
+EDI workshop email draft,False
 ----- After Interview -----,True
 Alfredo grading,True
 PHYS 310 - HW3,True
