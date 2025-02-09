@@ -11,10 +11,10 @@ website update,True
 slope safety training,True
 SFU application,True
 ---------------------------------,True
+Oxford - Interview Prep,True
+UBCTG - Variable dates,True
 AQN - Filtering Section,True
 EDI workshop email draft,True
-UBCTG - Variable dates,True
-Oxford - Interview Prep,True
 ----- After Interview -----,True
 Alfredo grading,True
 PHYS 310 - HW3,True
