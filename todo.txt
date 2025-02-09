@@ -20,7 +20,7 @@ PHYS 310 - Lab 7,False
 PHYS 310 - Lab 9,False
 Alfredo grading,True
 Apply to CNES,False
-Apply to ADUM,True
+Apply to ADUM,False
 AQN - Filtering Section,True
 EDI workshop email draft,True
 PHYS 310 - HW3,True
