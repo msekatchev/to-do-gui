@@ -19,3 +19,5 @@ EDI workshop email draft,True
 Alfredo grading,True
 PHYS 310 - HW3,True
 PHYS 310 - Lab 11,True
+Packing,True
+Buns,True
