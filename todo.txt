@@ -17,8 +17,8 @@ AQN - Filtering Section,True
 Joerg MT,False
 EDI workshop email draft,False
 ----- After Interview -----,True
-Alfredo grading,True
-PHYS 310 - HW3,True
-PHYS 310 - Lab 11,True
+Alfredo grading,False
+PHYS 310 - HW3,False
+PHYS 310 - Lab 11,False
 Packing,True
 Buns,True
