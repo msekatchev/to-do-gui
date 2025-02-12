@@ -11,7 +11,7 @@ website update,True
 slope safety training,True
 SFU application,True
 ---------------------------------,True
-Oxford - Interview Prep,True
+Oxford - Interview Prep,False
 UBCTG - Variable dates,True
 AQN - Filtering Section,True
 Joerg MT,False
@@ -23,3 +23,5 @@ PHYS 310 - Lab 11,False
 Packing,True
 Buns,True
 Q-trade transfer accounts,True
+PHYS 310 - HW4,True
+Prepare offline latex,True
