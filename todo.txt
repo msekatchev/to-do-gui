@@ -16,8 +16,8 @@ UBCTG - Variable dates,True
 AQN - Filtering Section,True
 Joerg MT,False
 EDI workshop email draft,False
+Q-trade transfer accounts,True
 ----- After Interview -----,True
 Alfredo grading,True
-Q-trade transfer accounts,True
 PHYS 310 - HW4,True
 PHYS 310 - MT1,True
