@@ -17,11 +17,7 @@ AQN - Filtering Section,True
 Joerg MT,False
 EDI workshop email draft,False
 ----- After Interview -----,True
-Alfredo grading,False
-PHYS 310 - HW3,False
-PHYS 310 - Lab 11,False
-Packing,True
-Buns,True
+Alfredo grading,True
 Q-trade transfer accounts,True
 PHYS 310 - HW4,True
 Prepare offline latex,True
