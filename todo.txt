@@ -20,5 +20,4 @@ EDI workshop email draft,False
 Alfredo grading,True
 Q-trade transfer accounts,True
 PHYS 310 - HW4,True
-Prepare offline latex,True
 PHYS 310 - MT1,True
