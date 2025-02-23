@@ -11,7 +11,6 @@ website update,True
 slope safety training,True
 SFU application,True
 ---------------------------------,True
-Oxford - Interview Prep,False
 UBCTG - Variable dates,True
 AQN - Filtering Section,True
 Joerg MT,False
@@ -22,3 +21,4 @@ Alfredo grading,True
 PHYS 310 - HW4,True
 PHYS 310 - MT1,True
 AQN - Filtering Section,True
+SCIE 113 - Speaker Series,True
