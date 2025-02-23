@@ -13,7 +13,6 @@ SFU application,True
 ---------------------------------,True
 UBCTG - Variable dates,True
 AQN - Filtering Section,True
-Joerg MT,False
 EDI workshop email draft,False
 Q-trade transfer accounts,True
 ----- After Interview -----,True
