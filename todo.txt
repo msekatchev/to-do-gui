@@ -15,7 +15,7 @@ Q-trade transfer accounts,True
 Check about Killam TA award,True
 ----- After Interview -----,True
 Alfredo grading,True
-PHYS 310 - HW4,True
+PHYS 310 - HW4,False
 PHYS 310 - MT1,True
 SCIE 113 - Speaker Series,False
 AQN - Add Ludo's suggestions,True
