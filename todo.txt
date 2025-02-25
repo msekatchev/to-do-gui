@@ -12,12 +12,11 @@ slope safety training,True
 SFU application,True
 ---------------------------------,True
 UBCTG - Variable dates,True
-AQN - Filtering Section,True
 EDI workshop email draft,False
 Q-trade transfer accounts,True
 ----- After Interview -----,True
 Alfredo grading,True
 PHYS 310 - HW4,True
 PHYS 310 - MT1,True
-AQN - Filtering Section,True
 SCIE 113 - Speaker Series,True
+AQN - Add Ludo's suggestions,True
