@@ -4,7 +4,6 @@ XLZD collaboration mass email,True
 Capital Direct - Initiate money transfer,True
 email philippe cauchon,True
 -----------------------------------,True
-work on todo app,True
 work on workout app,True
 website update,True
 slope safety training,True
@@ -21,3 +20,4 @@ PHYS 310 - MT1,True
 SCIE 113 - Speaker Series,True
 AQN - Add Ludo's suggestions,True
 todo app - notes page,True
+Numerix Assessment,True
