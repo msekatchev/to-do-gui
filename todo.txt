@@ -22,3 +22,4 @@ AQN - Add Ludo's suggestions,True
 todo app - notes page,True
 Numerix Assessment,True
 SCIE 113 - Speaker Series Presentation,True
+PHYS 310 - Lab 13,True
