@@ -17,7 +17,8 @@ Check about Killam TA award,True
 Alfredo grading,True
 PHYS 310 - HW4,True
 PHYS 310 - MT1,True
-SCIE 113 - Speaker Series,True
+SCIE 113 - Speaker Series,False
 AQN - Add Ludo's suggestions,True
 todo app - notes page,True
 Numerix Assessment,True
+SCIE 113 - Speaker Series Presentation,True
