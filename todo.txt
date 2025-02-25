@@ -4,7 +4,6 @@ XLZD collaboration mass email,True
 Capital Direct - Initiate money transfer,True
 email philippe cauchon,True
 -----------------------------------,True
-Check about Killam TA award,True
 work on todo app,True
 work on workout app,True
 website update,True
@@ -14,6 +13,7 @@ SFU application,True
 UBCTG - Variable dates,True
 EDI workshop email draft,False
 Q-trade transfer accounts,True
+Check about Killam TA award,True
 ----- After Interview -----,True
 Alfredo grading,True
 PHYS 310 - HW4,True
