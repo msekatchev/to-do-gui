@@ -11,11 +11,11 @@ EDI workshop email draft,False
 Q-trade transfer accounts,True
 Alfredo grading,True
 SCIE 113 - Speaker Series,True
-AQN - Add Ludo's suggestions,True
 todo app - notes page,True
-Numerix Assessment,True
-SCIE 113 - Speaker Series Presentation,False
+SCIE 113 - Speaker Series Presentation,True
+AQN - Add Ludo's suggestions,True
 AQN - Intro,True
+Numerix Assessment,True
 Check about Killam TA award,True
 ----- Today -----,True
 UBCTG - Variable dates,True
