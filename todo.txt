@@ -9,7 +9,6 @@ SFU application,True
 Email guy from Toronto?,True
 EDI workshop email draft,False
 Q-trade transfer accounts,True
-Check about Killam TA award,True
 Alfredo grading,True
 SCIE 113 - Speaker Series,True
 AQN - Add Ludo's suggestions,True
@@ -17,7 +16,7 @@ todo app - notes page,True
 Numerix Assessment,True
 SCIE 113 - Speaker Series Presentation,False
 AQN - Intro,True
-Order Battery,True
+Check about Killam TA award,True
 ----- Today -----,True
 UBCTG - Variable dates,True
 PHYS 310 - MT1,True
