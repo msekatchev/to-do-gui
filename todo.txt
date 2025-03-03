@@ -1,12 +1,12 @@
 ---------------------------------,True
 Capital Direct - Initiate money transfer,True
-email philippe cauchon,True
 -----------------------------------,True
 work on workout app,True
 website update,True
 slope safety training,True
 SFU application,True
 ---------------------------------,True
+Email guy from Toronto?,True
 UBCTG - Variable dates,True
 EDI workshop email draft,False
 Q-trade transfer accounts,True
