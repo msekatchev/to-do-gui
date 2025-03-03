@@ -7,19 +7,20 @@ slope safety training,True
 SFU application,True
 ---------------------------------,True
 Email guy from Toronto?,True
-UBCTG - Variable dates,True
 EDI workshop email draft,False
 Q-trade transfer accounts,True
 Check about Killam TA award,True
 Alfredo grading,True
-PHYS 310 - MT1,True
 SCIE 113 - Speaker Series,True
 AQN - Add Ludo's suggestions,True
 todo app - notes page,True
 Numerix Assessment,True
-SCIE 113 - Speaker Series Presentation,True
+SCIE 113 - Speaker Series Presentation,False
+AQN - Intro,True
+Order Battery,True
+----- Today -----,True
+UBCTG - Variable dates,True
+PHYS 310 - MT1,True
+Alfredo grading 2?,True
 PHYS 310 - Lab 13,True
 PHYS 310 - HW5,True
-Order Battery,True
-Alfredo grading 2?,True
-AQN - Intro,True
