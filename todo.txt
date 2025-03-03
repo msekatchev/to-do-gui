@@ -1,6 +1,4 @@
 ---------------------------------,True
-AQN - FIRE section,True
-XLZD collaboration mass email,True
 Capital Direct - Initiate money transfer,True
 email philippe cauchon,True
 -----------------------------------,True
@@ -13,14 +11,15 @@ UBCTG - Variable dates,True
 EDI workshop email draft,False
 Q-trade transfer accounts,True
 Check about Killam TA award,True
------ After Interview -----,True
 Alfredo grading,True
-PHYS 310 - HW4,False
 PHYS 310 - MT1,True
-SCIE 113 - Speaker Series,False
+SCIE 113 - Speaker Series,True
 AQN - Add Ludo's suggestions,True
 todo app - notes page,True
 Numerix Assessment,True
 SCIE 113 - Speaker Series Presentation,True
 PHYS 310 - Lab 13,True
 PHYS 310 - HW5,True
+Order Battery,True
+Alfredo grading 2?,True
+AQN - Intro,True
