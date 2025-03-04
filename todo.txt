@@ -23,3 +23,5 @@ PHYS 310 - MT1,True
 Alfredo grading 2?,True
 PHYS 310 - Lab 13,True
 PHYS 310 - HW5,True
+UCB - Summer fellowship,True
+UCB - Email Chiara,True
