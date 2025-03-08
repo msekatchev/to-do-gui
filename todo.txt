@@ -1,3 +1,4 @@
+Respond to Imperial,False
 ---------------------------------,True
 Capital Direct - Initiate money transfer,True
 -----------------------------------,True
@@ -7,12 +8,11 @@ slope safety training,True
 SFU application,True
 ---------------------------------,True
 Email guy from Toronto?,True
-EDI workshop email draft,False
 Q-trade transfer accounts,True
 Alfredo grading,True
 SCIE 113 - Speaker Series,True
-todo app - notes page,True
 SCIE 113 - Speaker Series Presentation,True
+todo app - notes page,True
 AQN - Add Ludo's suggestions,True
 AQN - Intro,True
 Numerix Assessment,True
@@ -24,7 +24,7 @@ PHYS 310 - HW5,True
 UCB - Summer fellowship,True
 UCB - Email Chiara,True
 Killam Award,True
+EDI workshop email draft,False
 Respond to Alfredo,True
 Canada CyberSec App,True
 Alfredo grading 3?,True
-Respond to Imperial,False
