@@ -19,7 +19,7 @@ Numerix Assessment,True
 ----- Today -----,True
 UBCTG - Variable dates,True
 Alfredo grading 2?,True
-PHYS 310 - Lab 13,True
+PHYS 310 - Lab 13,False
 PHYS 310 - HW5,True
 UCB - Summer fellowship,True
 UCB - Email Chiara,True
@@ -28,3 +28,4 @@ EDI workshop email draft,False
 Respond to Alfredo,True
 Canada CyberSec App,True
 Alfredo grading 3?,True
+PHYS 310 - Lab 15,True
