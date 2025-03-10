@@ -29,3 +29,4 @@ Respond to Alfredo,True
 Canada CyberSec App,True
 Alfredo grading 3?,True
 PHYS 310 - Lab 15,True
+alfredo - problem solutions,True
