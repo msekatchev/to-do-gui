@@ -22,3 +22,4 @@ PHYS 310 - Lab 15,True
 EDI workshop email draft,True
 Alfredo grading,True
 when2meet scie 113,True
+apply to TRISEP,True
