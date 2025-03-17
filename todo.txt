@@ -15,7 +15,7 @@ Numerix Assessment,True
 Canada CyberSec App,True
 ----- Today -----,True
 UBCTG - Variable dates,False
-UCB - Summer fellowship,True
+UCB - Summer fellowship,False
 SCIE 113 - Speaker Series,True
 SCIE 113 - Speaker Series Presentation,False
 PHYS 310 - Lab 15,True
