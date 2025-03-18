@@ -16,7 +16,7 @@ Canada CyberSec App,True
 ----- Today -----,True
 UBCTG - Variable dates,False
 UCB - Summer fellowship,False
-SCIE 113 - Speaker Series,True
+SCIE 113 - Speaker Series,False
 SCIE 113 - Speaker Series Presentation,False
 PHYS 310 - Lab 15,True
 EDI workshop email draft,True
