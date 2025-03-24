@@ -4,13 +4,10 @@ Capital Direct - Initiate money transfer,True
 work on workout app,True
 website update,True
 slope safety training,True
-SFU application,True
 Email guy from Toronto?,True
 ---------------------------------,True
 Q-trade transfer accounts,True
 todo app - notes page,True
-AQN - Add Ludo's suggestions,True
-AQN - Intro,True
 Numerix Assessment,True
 Canada CyberSec App,True
 ----- Today -----,True
@@ -19,3 +16,4 @@ PHYS 310 - Lab 15,True
 PHYS 310 - Lab 18,True
 Alfredo grading,True
 UBCTG - Work,True
+AQN - Thesis,True
