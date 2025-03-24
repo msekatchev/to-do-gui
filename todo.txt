@@ -18,8 +18,10 @@ UBCTG - Variable dates,False
 UCB - Summer fellowship,False
 SCIE 113 - Speaker Series,False
 SCIE 113 - Speaker Series Presentation,False
-PHYS 310 - Lab 15,True
 EDI workshop email draft,False
 Alfredo grading,True
 when2meet scie 113,False
 apply to TRISEP,False
+PHYS 310 - HW6,True
+PHYS 310 - Lab 15,True
+PHYS 310 - Lab 18,True
