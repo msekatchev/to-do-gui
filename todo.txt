@@ -15,6 +15,6 @@ PHYS 310 - HW6,True
 PHYS 310 - Lab 15,True
 PHYS 310 - Lab 18,True
 Alfredo grading,True
-UBCTG - Work,True
+UBCTG - Work,False
 AQN - Thesis,True
 PHYS 310 - Review MT2,True
