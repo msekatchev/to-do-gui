@@ -17,4 +17,4 @@ PHYS 310 - Lab 18,True
 Alfredo grading,True
 UBCTG - Work,False
 AQN - Thesis,True
-PHYS 310 - Review MT2,True
+PHYS 310 - Review MT2,False
