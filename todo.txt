@@ -11,9 +11,9 @@ todo app - notes page,True
 Numerix Assessment,True
 Canada CyberSec App,True
 ----- Today -----,True
-PHYS 310 - HW6,True
-PHYS 310 - Lab 15,True
-PHYS 310 - Lab 18,True
+PHYS 310 - HW6,False
+PHYS 310 - Lab 15,False
+PHYS 310 - Lab 18,False
 Alfredo grading,True
 UBCTG - Work,False
 AQN - Thesis,True
