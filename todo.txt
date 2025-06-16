@@ -20,3 +20,4 @@ UCB - official transcripts & diplomas,True
 UCB - IO orientation,True
 UCB - email Alex about courses,True
 ALFREDO - apply to grant,True
+UCB - course plan,True
