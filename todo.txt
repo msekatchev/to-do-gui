@@ -9,17 +9,17 @@ call NAPA about carpets,True
 license plate bulb,True
 brake sensor,True
 sew pants,True
------ TODAY -----,True
-UBCTG - try MATLAB code,True
 ALFREDO - code samples,True
-ALFREDO - Wucheng email,True
 ALFREDO - project desc. doc,True
 STAT - run chapter 3,True
 STAT - create branch,True
 UCB - official transcripts & diplomas,True
 UCB - IO orientation,True
 UCB - email Alex about courses,True
-ALFREDO - apply to grant,True
 UCB - course plan,True
 STAT - create problems,True
+----- TODAY -----,True
+UBCTG - try MATLAB code,True
 TRICEP - prep,True
+ALFREDO - apply to grant,True
+ALFREDO - Wucheng email,True
