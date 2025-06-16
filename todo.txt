@@ -18,10 +18,10 @@ STAT - run chapter 3,True
 STAT - create branch,True
 ALFREDO - code samples,True
 UCB - official transcripts & diplomas,True
-UCB - IO orientation,True
+UCB - IO orientation,False
 ----- TODAY -----,True
-ALFREDO - Wucheng email,True
+ALFREDO - Wucheng email,False
 UBCTG - try MATLAB code,True
-TRICEP - prep,True
+TRICEP - prep,False
 ALFREDO - apply to grant,True
 clean laptop,True
