@@ -19,7 +19,7 @@ UCB - email Alex about courses,True
 UCB - course plan,True
 STAT - create problems,True
 ----- TODAY -----,True
+ALFREDO - Wucheng email,True
 UBCTG - try MATLAB code,True
 TRICEP - prep,True
 ALFREDO - apply to grant,True
-ALFREDO - Wucheng email,True
