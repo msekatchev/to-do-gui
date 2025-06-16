@@ -7,7 +7,8 @@ items = []
 # run the command below to produce a .exe file on Linux or MacOS
 # pyinstaller --onefile --windowed todo.py
 
-todo_file_path = '/home/michael/python/todo/to-do-gui/'
+# todo_file_path = '/home/michael/python/todo/to-do-gui/'
+todo_file_path = '/Users/msekatchev/Documents/Coding/to-do-gui/'
 
 def add_item():
     item = input_field.get()
@@ -49,34 +50,62 @@ def save_items_and_push():
 def move_up():
     try:
         selected_index = list_box.curselection()[0]
+        item_text = list_box.get(selected_index)
+        check_off_status = items[selected_index][1]
+
         if selected_index > 0:
-            item_text = list_box.get(selected_index)
             list_box.delete(selected_index)
             list_box.insert(selected_index - 1, item_text)
+            list_box.itemconfig(selected_index - 1, {'fg': 'gray' if check_off_status == "False" else 'black'})
             list_box.select_set(selected_index - 1)
 
             prev_item = items[selected_index-1]
             current_item = items[selected_index]
             items[selected_index-1] = current_item
             items[selected_index] = prev_item
-            save_items()
+        else:
+            if selected_index == 0:
+                list_box.delete(selected_index)
+                list_box.insert(list_box.size(), item_text)
+                list_box.itemconfig(list_box.size() - 1, {'fg': 'gray' if check_off_status == "False" else 'black'})
+                list_box.select_set(list_box.size() - 1)
+
+                prev_item = items[list_box.size() - 1]
+                current_item = items[selected_index]
+                items[list_box.size() - 1] = current_item
+                items[selected_index] = prev_item
+        save_items()
     except IndexError:
         messagebox.showwarning("Selection Error", "Please select an item to move.")
 
 def move_down():
     try:
         selected_index = list_box.curselection()[0]
+        item_text = list_box.get(selected_index)
+        check_off_status = items[selected_index][1]
+
         if selected_index < list_box.size() - 1:
-            item_text = list_box.get(selected_index)
             list_box.delete(selected_index)
             list_box.insert(selected_index + 1, item_text)
+            list_box.itemconfig(selected_index + 1, {'fg': 'gray' if check_off_status == "False" else 'black'})
             list_box.select_set(selected_index + 1)
             
             prev_item = items[selected_index+1]
             current_item = items[selected_index]
             items[selected_index+1] = current_item
             items[selected_index] = prev_item
-            save_items()
+        else:
+            if selected_index == list_box.size() - 1:
+                list_box.delete(selected_index)
+                list_box.insert(0, item_text)
+                list_box.itemconfig(0, {'fg': 'gray' if check_off_status == "False" else 'black'})
+                list_box.select_set(0)
+
+                prev_item = items[0]
+                current_item = items[selected_index]
+                items[0] = current_item
+                items[selected_index] = prev_item
+        save_items()
     except IndexError:
         messagebox.showwarning("Selection Error", "Please select an item to move.")
 

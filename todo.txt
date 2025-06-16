@@ -3,10 +3,9 @@ Explore DSC TA etc.,True
 Capital Direct - Initiate money transfer,True
 -----------------------------------,True
 work on workout app,True
-website update,True
 slope safety training,True
 ---------------------------------,True
-Q-trade transfer accounts,True
+website update,True
 todo app - notes page,True
 Numerix Assessment,True
 Canada CyberSec App,True
@@ -19,5 +18,6 @@ Email guy from Toronto?,False
 PHYS 310 - Lab 23,True
 PHYS 310 - Remaining stuff,True
 Alfredo - Ass 3,True
-Fill out NIF,True
 13241234,True
+Fill out NIF,True
+Q-trade transfer accounts,True
