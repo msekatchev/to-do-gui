@@ -1,10 +1,10 @@
+Explore DSC TA etc.,True
 ---------------------------------,True
 Capital Direct - Initiate money transfer,True
 -----------------------------------,True
 work on workout app,True
 website update,True
 slope safety training,True
-Email guy from Toronto?,True
 ---------------------------------,True
 Q-trade transfer accounts,True
 todo app - notes page,True
@@ -15,8 +15,8 @@ UBCTG - Work,True
 AQN - Thesis,True
 PHYS 310 - Review MT2,False
 PHYS 310 - MT2,True
+Email guy from Toronto?,False
 PHYS 310 - Lab 23,True
 PHYS 310 - Remaining stuff,True
 Alfredo - Ass 3,True
 Fill out NIF,True
-Explore DSC TA etc.,True
