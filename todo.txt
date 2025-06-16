@@ -1,0 +1,17 @@
+----- LONG TERM -----,True
+update website w/ CV,True
+capital direct transfer,True
+peanut machine,True
+----- JUNE -----,True
+peanut machine,True
+call NAPA about carpets,True
+----- WEEK -----,True
+license plate bulb,True
+sew pants,True
+----- TODAY -----,True
+UBCTG - try MATLAB code,True
+ALFREDO - code samples,True
+ALFREDO - Wucheng email,True
+ALFREDO - project desc. doc,True
+STAT - run chapter 3,True
+STAT - create branch,True
