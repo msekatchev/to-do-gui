@@ -7,6 +7,7 @@ peanut machine,True
 call NAPA about carpets,True
 ----- WEEK -----,True
 license plate bulb,True
+brake sensor,True
 sew pants,True
 ----- TODAY -----,True
 UBCTG - try MATLAB code,True
