@@ -15,3 +15,5 @@ ALFREDO - Wucheng email,True
 ALFREDO - project desc. doc,True
 STAT - run chapter 3,True
 STAT - create branch,True
+UCB - official transcripts & diplomas,True
+UCB - IO orientation,True
