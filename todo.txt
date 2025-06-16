@@ -22,3 +22,4 @@ UCB - email Alex about courses,True
 ALFREDO - apply to grant,True
 UCB - course plan,True
 STAT - create problems,True
+TRICEP - prep,True
