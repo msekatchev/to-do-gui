@@ -15,11 +15,11 @@ STAT - create problems,True
 ----- WEEK -----,True
 license plate bulb,False
 ALFREDO - code samples,True
-UCB - official transcripts & diplomas,True
 UCB - IO orientation,False
 ----- TODAY -----,True
 STAT - create branch,True
 STAT - run chapter 3,True
+UCB - official transcripts & diplomas,True
 ALFREDO - Wucheng email,False
 UBCTG - try MATLAB code,False
 TRICEP - prep,False
