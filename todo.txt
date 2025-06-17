@@ -3,9 +3,9 @@ update website w/ CV,True
 capital direct transfer,True
 peanut machine,True
 ----- JUNE -----,True
-peanut machine,True
-call NAPA about carpets,True
-brake sensor,True
+peanut machine,False
+call NAPA about carpets,False
+brake sensor,False
 sew pants,True
 UCB - course plan,True
 UCB - email Alex about courses,True
@@ -13,7 +13,7 @@ UCB - email Alex about courses,True
 ALFREDO - project desc. doc,True
 STAT - create problems,True
 ----- WEEK -----,True
-license plate bulb,True
+license plate bulb,False
 STAT - run chapter 3,True
 STAT - create branch,True
 ALFREDO - code samples,True
@@ -21,7 +21,7 @@ UCB - official transcripts & diplomas,True
 UCB - IO orientation,False
 ----- TODAY -----,True
 ALFREDO - Wucheng email,False
-UBCTG - try MATLAB code,True
+UBCTG - try MATLAB code,False
 TRICEP - prep,False
 ALFREDO - apply to grant,True
 clean laptop,True
