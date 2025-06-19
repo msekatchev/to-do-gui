@@ -20,7 +20,7 @@ UCB - IO orientation,False
 STAT - create branch,True
 STAT - run chapter 3,True
 UCB - official transcripts & diplomas,True
-ALFREDO - Wucheng email,False
+ALFREDO - Wucheng email,True
 UBCTG - try MATLAB code,False
 TRICEP - prep,False
 ALFREDO - apply to grant,True
