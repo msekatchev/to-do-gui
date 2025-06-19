@@ -1,7 +1,6 @@
 ----- LONG TERM -----,True
 update website w/ CV,True
 capital direct transfer,True
-peanut machine,True
 ----- JUNE -----,True
 peanut machine,False
 call NAPA about carpets,False
