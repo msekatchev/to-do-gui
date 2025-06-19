@@ -11,17 +11,17 @@ UCB - course plan,True
 UCB - email Alex about courses,True
 ----- PROJECTS -----,True
 ALFREDO - project desc. doc,True
-STAT - create problems,True
 ----- WEEK -----,True
 license plate bulb,False
 ALFREDO - code samples,True
 UCB - IO orientation,False
------ TODAY -----,True
-STAT - create branch,True
-STAT - run chapter 3,True
-UCB - official transcripts & diplomas,True
+STAT - create problems,True
 ALFREDO - Wucheng email,True
+----- TODAY -----,True
+STAT - create branch,False
+STAT - run chapter 3,False
+UCB - official transcripts & diplomas,True
 UBCTG - try MATLAB code,False
 TRICEP - prep,False
 ALFREDO - apply to grant,True
-clean laptop,True
+clean laptop,False
