@@ -1,5 +1,5 @@
 ----- LONG TERM -----,True
-update website w/ CV,True
+update website w/ CV,False
 capital direct transfer,True
 ----- JUNE -----,True
 peanut machine,False
@@ -24,6 +24,6 @@ UBCTG - try MATLAB code,False
 TRICEP - prep,False
 ALFREDO - apply to grant,True
 clean laptop,False
-scotiabank - interac,True
-respond to Josh,True
-create problems for ENPH 270,True
+scotiabank - interac,False
+respond to Josh,False
+create problems for ENPH 270,False
