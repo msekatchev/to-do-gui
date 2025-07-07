@@ -15,10 +15,7 @@ ALFREDO - apply to grant,True
 clean laptop,True
 STAT - Finish Problem 1,True
 UBCTG - Alpha Funcs,True
-UBCTG - Try Satellite Imagery,True
 ----- LONG TERM -----,True
 update website w/ CV,False
 update website,True
 ----- JUNE -----,True
-add vaccine to UCB,True
-respond to Bethany,True
