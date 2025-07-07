@@ -1,6 +1,5 @@
------ LONG TERM -----,True
 update website w/ CV,False
-capital direct transfer,True
+update website,True
 ----- JUNE -----,True
 peanut machine,False
 call NAPA about carpets,False
@@ -23,3 +22,4 @@ clean laptop,True
 STAT - Finish Problem 1,True
 UBCTG - Alpha Funcs,True
 UBCTG - Try Satellite Imagery,True
+----- LONG TERM -----,True
