@@ -5,7 +5,7 @@ capital direct transfer,True
 peanut machine,False
 call NAPA about carpets,False
 brake sensor,False
-sew pants,True
+sew pants,False
 UCB - course plan,True
 UCB - email Alex about courses,True
 ----- PROJECTS -----,True
@@ -17,13 +17,9 @@ UCB - IO orientation,False
 STAT - create problems,True
 ALFREDO - Wucheng email,True
 ----- TODAY -----,True
-STAT - create branch,False
-STAT - run chapter 3,False
 UCB - official transcripts & diplomas,True
-UBCTG - try MATLAB code,False
-TRICEP - prep,False
 ALFREDO - apply to grant,True
-clean laptop,False
-scotiabank - interac,False
-respond to Josh,False
-create problems for ENPH 270,False
+clean laptop,True
+STAT - Finish Problem 1,True
+UBCTG - Alpha Funcs,True
+UBCTG - Try Satellite Imagery,True
