@@ -1,19 +1,13 @@
-update website w/ CV,False
-update website,True
------ JUNE -----,True
 peanut machine,False
-call NAPA about carpets,False
-brake sensor,False
-sew pants,False
-UCB - course plan,True
+desktop for Berkeley,True
+sew pants,True
+----- JULY -----,True
 UCB - email Alex about courses,False
 ----- PROJECTS -----,True
 ALFREDO - project desc. doc,True
 ----- WEEK -----,True
 license plate bulb,False
-ALFREDO - code samples,True
 UCB - IO orientation,False
-STAT - create problems,True
 ALFREDO - Wucheng email,True
 ----- TODAY -----,True
 UCB - official transcripts & diplomas,True
@@ -23,3 +17,8 @@ STAT - Finish Problem 1,True
 UBCTG - Alpha Funcs,True
 UBCTG - Try Satellite Imagery,True
 ----- LONG TERM -----,True
+update website w/ CV,False
+update website,True
+----- JUNE -----,True
+add vaccine to UCB,True
+respond to Bethany,True
