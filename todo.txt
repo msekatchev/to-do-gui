@@ -7,7 +7,7 @@ call NAPA about carpets,False
 brake sensor,False
 sew pants,False
 UCB - course plan,True
-UCB - email Alex about courses,True
+UCB - email Alex about courses,False
 ----- PROJECTS -----,True
 ALFREDO - project desc. doc,True
 ----- WEEK -----,True
