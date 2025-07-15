@@ -19,3 +19,4 @@ UBCTG - Alpha Funcs,True
 update website w/ CV,False
 update website,True
 ----- JUNE -----,True
+order haircut,True
