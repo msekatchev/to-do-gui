@@ -20,3 +20,4 @@ order haircut,True
 add answers to stats book,True
 respond to makoto,True
 pick courses,True
+workout schedule,True
