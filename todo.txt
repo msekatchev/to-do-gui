@@ -20,3 +20,5 @@ update website w/ CV,False
 update website,True
 ----- JUNE -----,True
 order haircut,True
+add answers to stats book,True
+respond to makoto,True
