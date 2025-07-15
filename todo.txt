@@ -1,4 +1,3 @@
-peanut machine,False
 desktop for Berkeley,True
 sew pants,True
 ----- JULY -----,True
@@ -20,3 +19,4 @@ update website,True
 order haircut,True
 add answers to stats book,True
 respond to makoto,True
+pick courses,True
