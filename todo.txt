@@ -6,8 +6,6 @@ UCB - email Alex about courses,False
 ----- PROJECTS -----,True
 ALFREDO - project desc. doc,True
 ----- WEEK -----,True
-license plate bulb,False
-UCB - IO orientation,False
 ALFREDO - Wucheng email,True
 ----- TODAY -----,True
 UCB - official transcripts & diplomas,True
