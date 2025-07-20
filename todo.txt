@@ -21,3 +21,4 @@ add answers to stats book,True
 respond to makoto,True
 pick courses,True
 workout schedule,True
+add supervision of students to cv,True
