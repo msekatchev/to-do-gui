@@ -22,3 +22,4 @@ respond to makoto,True
 pick courses,True
 workout schedule,True
 add supervision of students to cv,True
+email Ben about GALAXIS presentation,True
