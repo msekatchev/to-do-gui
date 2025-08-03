@@ -10,6 +10,5 @@ STAT - fix display bug,True
 STAT - convert to R,True
 ALFREDO - quizzes, docs, etc.,True
 ----- TODAY -----,True
-email john,True
-apply to nuc phys school,True
+email john,False
 outlier - bilingual assessment,True
