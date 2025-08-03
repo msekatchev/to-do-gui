@@ -1,25 +1,15 @@
 desktop for Berkeley,True
-sew pants,True
------ JULY -----,True
-UCB - email Alex about courses,False
 ----- PROJECTS -----,True
-ALFREDO - project desc. doc,True
+update website,True
+add supervision of students to cv,True
 ----- WEEK -----,True
 ALFREDO - Wucheng email,True
------ TODAY -----,True
-UCB - official transcripts & diplomas,True
-ALFREDO - apply to grant,True
-clean laptop,True
-STAT - Finish Problem 1,True
 UBCTG - Alpha Funcs,True
------ LONG TERM -----,True
-update website w/ CV,False
-update website,True
------ JUNE -----,True
-order haircut,True
-add answers to stats book,True
-respond to makoto,True
-pick courses,True
-workout schedule,True
-add supervision of students to cv,True
-email Ben about GALAXIS presentation,True
+clean laptop,True
+STAT - fix display bug,True
+STAT - convert to R,True
+ALFREDO - quizzes, docs, etc.,True
+----- TODAY -----,True
+email john,True
+apply to nuc phys school,True
+outlier - bilingual assessment,True
