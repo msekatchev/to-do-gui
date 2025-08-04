@@ -13,3 +13,6 @@ ALFREDO - quizzes docs etc.,True
 email john,False
 outlier - bilingual assessment,True
 STAT - background info,True
+STAT - probably report hours,True
+NAPA - pick up air filter,True
+CRA - Call about residency status,True
