@@ -12,3 +12,4 @@ ALFREDO - quizzes docs etc.,True
 ----- TODAY -----,True
 email john,False
 outlier - bilingual assessment,True
+STAT - background info,True
