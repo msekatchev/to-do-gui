@@ -16,3 +16,7 @@ STAT - background info,True
 STAT - probably report hours,True
 NAPA - pick up air filter,True
 CRA - Call about residency status,True
+respond to Alfredo,True
+visit Lizelle,True
+visit Makoto,True
+Project Glyph - Create problem,True
