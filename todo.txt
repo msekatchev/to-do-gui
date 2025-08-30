@@ -7,3 +7,6 @@ email Tapper,True
 pay rent,True
 N100 assignment,True
 check news sources,True
+Alfredo - Analysis,True
+Alfredo - Videos,True
+Stat - Fix problems,True
