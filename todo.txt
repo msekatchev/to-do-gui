@@ -1,24 +1,3 @@
-desktop for Berkeley,True
 ----- PROJECTS -----,True
 update website,True
 add supervision of students to cv,True
------ WEEK -----,True
-ALFREDO - Wucheng email,True
-UBCTG - Alpha Funcs,True
-clean laptop,True
-STAT - fix display bug,True
-STAT - convert to R,True
-ALFREDO - quizzes docs etc.,True
------ TODAY -----,True
-email john,False
-outlier - bilingual assessment,False
-STAT - background info,True
-STAT - probably report hours,True
-NAPA - pick up air filter,True
-CRA - Call about residency status,True
-respond to Alfredo,False
-visit Lizelle,True
-visit Makoto,True
-Project Glyph - Create problem,True
-visit Joerg,True
-UBCTG - alphas,True
