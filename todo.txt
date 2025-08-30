@@ -1,9 +1,9 @@
 ----- PROJECTS -----,True
 update website,True
 add supervision of students to cv,True
-email Mark,True
-email Jocelyn,True
-email Tapper,True
+email Mark,False
+email Jocelyn,False
+email Tapper,False
 pay rent,True
 N100 assignment,True
 check news sources,True
