@@ -10,3 +10,6 @@ check news sources,True
 Alfredo - Analysis,True
 Alfredo - Videos,True
 Stat - Fix problems,True
+gym - berkeley barbell,True
+gym - city sport,True
+safety training,True
