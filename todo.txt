@@ -4,3 +4,6 @@ add supervision of students to cv,True
 email Mark,True
 email Jocelyn,True
 email Tapper,True
+pay rent,True
+N100 assignment,True
+check news sources,True
